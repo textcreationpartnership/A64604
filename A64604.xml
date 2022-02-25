@@ -1,0 +1,757 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Passionate remonstrance made by His Holinesse in the conclave at Rome upon the late proceedings and great covenant of Scotland, &amp;c. : with a reply of Cardinall De Barbarini in the name of the Roman clergy : together with a letter of intelligence from the apostolicke nuntio (now residing in London) to Pope Vrban the 8.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 112 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64604</idno>
+            <idno type="STC">Wing U130</idno>
+            <idno type="STC">ESTC R23255</idno>
+            <idno type="EEBO-CITATION">12494788</idno>
+            <idno type="OCLC">ocm 12494788</idno>
+            <idno type="VID">62470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62470)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 299:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Passionate remonstrance made by His Holinesse in the conclave at Rome upon the late proceedings and great covenant of Scotland, &amp;c. : with a reply of Cardinall De Barbarini in the name of the Roman clergy : together with a letter of intelligence from the apostolicke nuntio (now residing in London) to Pope Vrban the 8.</title>
+                  <author>Urban VIII, Pope, 1568-1644.</author>
+                  <author>Rossetti, Carlo, 1615-1681.</author>
+                  <author>Barberini, Antonio, 1607-1681.</author>
+               </titleStmt>
+               <extent>[82] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>Printed at Edingborough [i.e. London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation or possibly a fabrication by "Vates" [i.e. prophet, poet, or teacher]; with verses by him and by Duraeus, John More, David Primerose [of French church in London] and others, complimenting Vates as the author of this work and of a poem entitled Urbania. Ascribed to Urban VIII, and included in Somers tracts. According to Aldis, a fictitious Edinburgh imprint.</note>
+                  <note>Place of publication from NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenants (Church polity) --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:62470:1"/>
+            <p>
+               <figure>
+                  <figDesc>13 clergymen sitting around a table</figDesc>
+                  <head>C. di Fionnza. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>3m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zifio di Barbarini. Antonio di Barbarini.</head>
+                  <head>Tutto <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ta mal;</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:62470:1"/>
+            <p>THE PASSIONATE Remonſtrance Made by his Holineſſe in the Conclave at ROME: Upon the late proceedings, and great <hi>Covenant</hi> of <hi>Scotland, &amp;c.</hi>
+            </p>
+            <p>With a reply of Cardinall <hi>De Barbarini</hi> in the name of the Roman Clergy.</p>
+            <p>Together with a Letter of <hi>Jntelligence</hi> from the <hi>Apoſtolicke</hi> Nuntio (now reſiding in <hi>London</hi>) to Pope <hi>Vrban</hi> the 8.</p>
+            <q>Ridentem dicere verum nil vetat.</q>
+            <p>Printed at <hi>Edingborough.</hi> 1641.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:62470:2" rendition="simple:additions"/>
+            <pb facs="tcp:62470:2" rendition="simple:additions"/>
+            <head>To the Author his well-beloved Friend.</head>
+            <l>SPrings nigh their Source into a brook extended</l>
+            <l>Prove Rivers great before their courſe be ended.</l>
+            <l>Flowers which their beauty in the bud have ſhow'n</l>
+            <l>Are found much fairer when they're fully blow'n</l>
+            <l>The Lions paw, a Lions whelpe deſcries;</l>
+            <l>The great <hi>Alcides</hi> in his Cradle tries</l>
+            <l>The Combat; And confounding his Aſſailour,</l>
+            <l>Gives a Heroick Preſage of his Valour.</l>
+            <l>Thy Spring, Bud, Paw; This Cradle-Maſter-peece,</l>
+            <l>Say, thy Ripe Age, ſhall yeeld a Golden fleece.</l>
+            <closer>
+               <signed>Sub Foed. Sp.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>In gratiam Auctoris.</head>
+            <l>NVlla Cupreſſus adeſt, dempta hic de Culmine Pindi eſt</l>
+            <l>Laurus in Auctoris danda Corona Comam.</l>
+            <l>Non opus eſt Elegis in funere Praeſulis, ipſa</l>
+            <l>Melpomene querulum nil tacitura ſonat:</l>
+            <l>Gratior huic Muſae mage dia Vrania, &amp; illi</l>
+            <l>Baſia Caſtalio miſta liquore dedit:</l>
+            <l>Hinc, Velut Alcides Clavo, plura horrida monſtra,</l>
+            <l>Hic Vates calamo nobiliore necat.</l>
+            <pb facs="tcp:62470:3"/>
+            <l>Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e fo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> decus Arcto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, nam funere ab iſto</l>
+            <l>Vita perenna tibi, fama perennis erit.</l>
+            <closer>
+               <signed>DURAEUS:</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>De Aureo Libello.</head>
+            <lg>
+               <l>MEllea quàm ſit res oratio, quámque rotundo</l>
+               <l>Agmine decurrat, blando glomerata ſuſurro;</l>
+               <l>Quàm veneranda novo nunc verrat ſyrmate terram,</l>
+               <l>Nunc ſublimè volans caput inter nubila condat,</l>
+               <l>Aſpectus fugiens terrena mole gravatos;</l>
+               <l>Quàm rapido torrente fluat, quàm Suada venuſta,</l>
+               <l>Quam modulis numeroſa ſuis facundia praeceps</l>
+               <l>Abripiat celeri mentes ſuper aſtra volatu,</l>
+               <l>Audieram dudum: priùs at non cognita Pythûs</l>
+               <l>Eximia &amp; virtus &amp; blandimenta fuêre,</l>
+               <l>Ante oculos donec dederat Scintillula flammam,</l>
+               <l>Claramque ingentemque ſimul; quae &amp; purior illâ</l>
+               <l>Quàm praebere ſolet Phoebus de vertice coeli.</l>
+               <l>Quae ſimul emicuit, concuſſo vertice coelum</l>
+               <l>Intremuiſſe putes, taleſque dediſſe ſonores,</l>
+               <l>Quales Pythagorae finxere orâcla renati;</l>
+               <l>Angelica aut credas fudiſſe choreumata cantum,</l>
+               <l>Cantum, quale melos mulſit terramque polumque</l>
+               <l>Cùm cecinere Dei pueri praeconia, laudes</l>
+               <l>Et cecinere hominis de aeterno patre perennis,</l>
+               <l>Sponte ſuâ in terras qui coelo lapſus ab alto,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>t poſſet miſerans coeli reparare ruinas,</l>
+               <l>Et nos mortales ſuperas attollere ad arces.</l>
+            </lg>
+            <lg>
+               <l>At nonnulla meam ſubit admiratio mentem,</l>
+               <pb facs="tcp:62470:3"/>
+               <l>Qui potis Angelicas infernus reddere voces?</l>
+               <l>Ni lateant furtim dulci ſub melle venena:</l>
+               <l>Sed latet, &amp; gelidum ſorbent cum melle venenum</l>
+               <l>Aurea qui Scorti Babylonis pocula ſugunt.</l>
+               <closer>
+                  <signed>V. A.</signed>
+               </closer>
+            </lg>
+         </div>
+         <div type="encomium">
+            <head>De Vate, Authore Libelli.</head>
+            <l>OMnia Samariae regi narravit <hi>Eliſha,</hi>
+            </l>
+            <l>Quae Syrus occultâ geſſerat in camerâ:</l>
+            <l>Scotorum regi hic vates arcana revelat,</l>
+            <l>Papanae celat quae penetrate domus,</l>
+            <l>
+               <hi>Eliſham</hi> Syrii, vatem hunc papana requirant</l>
+            <l>Agmina, ſed pariles par quoque poena premet:</l>
+            <l>Papanis pariter Syriiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſcotomate caeſis</l>
+            <l>Lucida pro tenebris ſpicula ſolis erunt.</l>
+            <closer>
+               <signed>V. A.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>In gratiam chariſsimi ſui amici.</head>
+            <l>PRaeſulis Inviſi jam infamis fama ſuperbit</l>
+            <l>Authoris Genio ſplendidiore coli.</l>
+            <l>Strata jace<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prorſus tam inſurgens gloria, nulla</l>
+            <l>Gente Caledoniâ nom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nis umbra foret;</l>
+            <l>Si non hic vates celebraſſet funera, Papam</l>
+            <l>Illius <hi>Ambroſio</hi> dum facit ore loqui.</l>
+            <l>Foecundo ingenio certat facundia linguae,</l>
+            <l>Nobile materiam ſic ſuperavit opus.</l>
+            <l>Materies Praeſul te indigna eſt: praeſtat amatae</l>
+            <pb facs="tcp:62470:4"/>
+            <l>Vraniae Roſeis baſia ferre genis;</l>
+            <l>Aonidum immortale decus, tibi ſerta parantur</l>
+            <l>Laurea, temporibus non peritura tuis.</l>
+            <l>Inferiae tantae mittent per ſaecula famam</l>
+            <l>Dum ſuper aethereo volvitur axe Polus.</l>
+            <closer>
+               <signed>Jo. Morus.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>On the ſame.</head>
+            <lg>
+               <l>THy deare Vrania fits thy ſoaring Quill</l>
+               <l>To nothing that's below the Artick Waine:</l>
+               <l>How comes it then that with ſuch pretty skill</l>
+               <l>Thou doſt decipher <hi>Romes</hi> infernall Traine?</l>
+               <l>Tis that ſhe may from Thee make ſpring a Rod</l>
+               <l>To whip the Prelates, and their Mitred God.</l>
+            </lg>
+            <lg>
+               <l>She'll ſpare ſome time (to thy Immortall praiſe,)</l>
+               <l>To Ironize upon their damned Plot</l>
+               <l>For thy Refreſhment, that with purer Layes</l>
+               <l>Thou maiſt her ſound from thy melodious throat:</l>
+               <l>How can thy Muſe, but chooſe to be divine,</l>
+               <l>When ſweete Vranias lips in-Nectar thine?</l>
+            </lg>
+            <closer>
+               <signed>Io. More.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>To his ever moſt eſteemed friend, the Author.</head>
+            <l>THis Pope here lim'd is ſaid to flouriſh faire</l>
+            <l>In his Nurſe Idiome and the Latine Tongue:</l>
+            <pb facs="tcp:62470:4"/>
+            <l>But here's the wonder, that a Sprit ſo young</l>
+            <l>Should blow him North to breathe our Native Aire,</l>
+            <l>And perſonate his ſpeech, as here is ſhow'n,</l>
+            <l>That he and his Impoſtors muſt admire</l>
+            <l>His Raptures and embelliſht griefe to heare</l>
+            <l>Powr'd forth in ſweeter accents, nor his owne.</l>
+            <l>It He and all his Conſiſtoriall Traine</l>
+            <l>Had in a Lymbick all their Braines diſtill'd,</l>
+            <l>It would out-reach their skill, thus to have fill'd</l>
+            <l>Thoſe ſugred Pages with ſo rare a Straine</l>
+            <l>Of flowred ſpeeches, ſo this Generous Spark,</l>
+            <l>Hath made a light to ſhine throughout the dark.</l>
+            <closer>
+               <signed>
+                  <hi>Da. Prymroſe.</hi> J. C.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>To his all-beloved and hopefull friend the Author of this Book.</head>
+            <l>THou hills ſo ſweetly, with thy darreſt words,</l>
+            <l>With powerfull lightnings, &amp; two-edged ſwords</l>
+            <l>Which thou elances from thy thundring pen</l>
+            <l>That thoſe who challenge over ſoules of men</l>
+            <l>A tyrannie, muſt humbled all forbeare</l>
+            <l>To reach thy Garlands, or attaine thy Spheare:</l>
+            <l>All other reliſhes like aloes be</l>
+            <l>Compar'd with thoſe ſweet flowers which here we ſee,</l>
+            <l>Thine high-bred Quill, which breathes ſo gentle fire,</l>
+            <l>Drink with <hi>Elixar</hi> of Caſtalian Ire,</l>
+            <l>Proclaimes the honour of the Graces love;</l>
+            <l>But moſt thy ſweet Urania, like a Dove</l>
+            <pb facs="tcp:62470:5"/>
+            <l>Fraught with her purer raptures, doth take pleaſure</l>
+            <l>To nurſe thee with the influence of her treaſure,</l>
+            <l>Yet here is but a flaſh; What can be ſaid,</l>
+            <l>When this Aurore her full beams hath diſplaid?</l>
+            <closer>
+               <signed>T. C.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>The Author to <hi>Zoilus.</hi>
+            </head>
+            <l>BUt ſpare to martyre Ingenuitie,</l>
+            <l>Bold ſons of Cenſure; Bleſt be Authoritie,</l>
+            <l>I kiſſe the Scepters ſhade, and ſtand in aw</l>
+            <l>Raſhly to dallie with the Lions Paw.</l>
+            <l>'Tis thoſe baſe Tapers, whoſe Incendiarie breath</l>
+            <l>Stifles the purer Light, poyſons to death</l>
+            <l>The nurſing Raves of ſacred Majeſtie,</l>
+            <l>And kills our love ſick ſoules with Jealouſie,</l>
+            <l>Which I blow at; Let Soveraigntie appeare</l>
+            <l>The full delight of every Eye, and eare:</l>
+            <l>'Tis thoſe uſurping ſpots, which doe prophane</l>
+            <l>The Moons ſweet face,<note place="margin">The Perſians adored the Sun</note> her comely beautie ſtain,</l>
+            <l>I wiſh were wyp't away, and every Ray</l>
+            <l>Of Royall power, kiſs't by Perſian Ey.</l>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:62470:5"/>
+            <head>THE PASSIONATE RE<g ref="char:EOLhyphen"/>monſtrance of the <hi>Pope</hi> in his Conclave at <hi>Rome,</hi> Upon the diſaſterous diſappointments given to the Roman cauſe, by the late proceedings and great <hi>Covenant of</hi> SCOTLAND.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>OU that are the Light of the world, the Beauty of Truth &amp; Zeal (Moſt holy Aſſembly, to which the title of Candor doth properly belong) You fathers of Integrity, ſons and heirs, aſwell of my Inſtitutions, as Deſignes, whom my Holy Benedi<g ref="char:EOLhyphen"/>ction hath erected to be the Ornament of the Church, throned in all Catholicall graces; If naturall compunction touch you truly, you have found how
+<pb facs="tcp:62470:6"/> your moſt deare Primitive Mothers heart, hath recei<g ref="char:EOLhyphen"/>ved a late Wound from the Adverſaries, and how a number of Impoſtors are riſen up, preaching a new Sedition, and drawing her very Life-blood, her blood of Honour from her ſweet tender Sides; The fearful<g ref="char:EOLhyphen"/>leſt Blow our Cauſe ever felt, the lowdeſt Tempeſt that ever Hereticall Schiſme could rouſe, doth now rage moſt furiouſly, and threatens to pull up our Sa<g ref="char:EOLhyphen"/>cred Throne by the very roots; It hath made <hi>S. Peters</hi> tremble, Shook the very Altars and Statues, and af<g ref="char:EOLhyphen"/>frighted the aſhes of ſleeping Popes: We have cer<g ref="char:EOLhyphen"/>tainly gotten a Maſter-check, never felt extremity like this; Amazement covers us, our infallible ſtaffe doth faile us, and for very feare our Myſterious Mi<g ref="char:EOLhyphen"/>ter is turned Paralytick; Thick darkneſſe dwels upon this Houre: Integrity, like one of Heavens bright Lu<g ref="char:EOLhyphen"/>minaries, by Errors dull Element interpoſe, ſuffers a black Eclipſe; the Locuſts of Hell are let looſe, and if they be not ſwept away, we may reſolve to make Bone-fires of all the Books of the Vaticane, and let all the Religious turne Knights errant; It is to be feared (my Diſciples) leſt this new-fangled Hereſie, pervert Nations, and Realmes, to an open Revolt from our ſpirituall Scepter, and theſe Innovators, ſpread over the world, cover the Earths face, and make dark the land like Egyptian Graſhoppers.</p>
+            <p>The affront which our Holineſſe receives, doth the more afflict Us, becauſe it comes from that Kingdome of <hi>Scotland,</hi> the moſt infortunate and inconſiderable Angle in the World, a people not worthy to be belo<g ref="char:EOLhyphen"/>ved nor ſought after: Yet our conſcience beares Us witneſſe, how affectionatly we have offered unto them
+<pb facs="tcp:62470:6"/> our Apoſtolicall Embracements, but they hated to be reformed. And to the end that rebellious Nation, might be brought under, You know, how I have moſt laboriouſly beſtirred the ſtrength of <hi>Machiavell,</hi> and diligently ſollicite <hi>Jgnatius</hi> ſubtilties, who, like a glit<g ref="char:EOLhyphen"/>tering ſerpent with his reſplendent Poyſons, can moſt divinely creep into the very Souls of the moſt impre<g ref="char:EOLhyphen"/>gnable Common-wealths and teach them how to de<g ref="char:EOLhyphen"/>rive Life and Motion from Us; What great proofes we have had of their dexterities in ſuch Convoys, the whole Chriſtian World can this day bear record; how nimbly likewiſe thoſe Emiſſaries, (fraughted with the ſame Excellencies) went about the great work cal<g ref="char:EOLhyphen"/>led <hi>The poſſeſſion of the World,</hi> to make it Ours, you have learned by the informations of our Secretaries, and addreſſes of our Nunncio's, and may likewiſe judge by the Records of the Articles and aſſurances which they duly diſpatch from theſe parts. The continuall Current of that Primates Intelligence, who for his a<g ref="char:EOLhyphen"/>ctive zeale deſerveth well to be called, The <hi>Genius</hi> of the diſtreſſed Church in <hi>England,</hi> did ſweetly refreſh our longing ſoules with glad tydings, and conceived fair Hopes in our Hearts. We have juſtly ripened him with the beames of our favour, and we muſt all con<g ref="char:EOLhyphen"/>feſſe, that howſoever We laid our Commands both thick and faſt upon him, his allegeance notwith<g ref="char:EOLhyphen"/>ſtanding was ever devoted to Us in a boundleſſe obe<g ref="char:EOLhyphen"/>dience, the humbleſt, yet mightieſt of all filiall duties; full well he knew the language of my Intent, &amp; mo<g ref="char:EOLhyphen"/>ved by my Sanctimonious breath, He hath propined moſt abundantly to that Nation (and I hope effectu<g ref="char:EOLhyphen"/>ally too) (for the buſineſſe of the Univerſall Monar<g ref="char:EOLhyphen"/>chy
+<pb facs="tcp:62470:7"/> went well on, I ſaw it in an Egyptian Glaſſe) the moſt Pure Waters which run from the threſhold of <hi>S. Peters</hi> Sanctuary: Which makes this good Ghoſtly Father, amongſt thoſe yet unhallowed Heretiques, to be branded as great &amp; Prime Incendiary of all Chri<g ref="char:EOLhyphen"/>ſtendome, who with the French Cardinall, toſſeth Kingdomes like Tenisbals: We heard he can negoti<g ref="char:EOLhyphen"/>at moſt handſomely, &amp; factiouſly, with pleaſant ſub<g ref="char:EOLhyphen"/>tilty, and bewitching Courtſhip, abuſe the Infatuate State with delight; He muzles the barking Tongue<g ref="char:EOLhyphen"/>men of the Time; &amp; as cunningly as ever the Floren<g ref="char:EOLhyphen"/>tine Monſter could poyſon the faireſt Co<g ref="char:cmbAbbrStroke">̄</g>monwealth of Europe with his Politicks, ſo hath he moſt Epiſco<g ref="char:EOLhyphen"/>pally exalted our Church Hierarchy, &amp; eſtabliſhed a Spirituall Government there, &amp; now happily, advan<g ref="char:EOLhyphen"/>ced the opinion of our Glory, to that Eminency, that the two Tutelar Angels of <hi>Cambridge</hi> &amp; <hi>Oxford,</hi> ſtick not almoſt to maintaine the Myter, of equall dignity with the Scepter; Nay, ſo good proficients were they in his Apoſtolicall Canons,<note place="margin">Two Germain brethren; the one whereof maintained the Popes honour above the Em<g ref="char:EOLhyphen"/>perour: the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ther ſuſtained the Emperours dignitie above the Popes: wherupon they fought, and the one killing the other, their quarrell was ſpred through<g ref="char:EOLhyphen"/>out all <hi>Italie.</hi>
+               </note> that as boldly durſt they kick againſt the one, as ſpurn at the other: Thus were we hopefull to ſee the old quarrell of the <hi>Gwelfes,</hi> and <hi>Gibellines,</hi> enflame the ſwords of Potentates, &amp; die the Copes of Engliſh Cardinals, with the blood of Here<g ref="char:EOLhyphen"/>ticks. For the courſe w<hi rend="sup">ch</hi> he ran, ſeemed to be infalli<g ref="char:EOLhyphen"/>ble, as the prophecies of the old Teſtament, immove<g ref="char:EOLhyphen"/>able as Fate, &amp; tollerat by Heavens connivance: And thus like a cunning Catholick, burning with zeal of the great Cauſe, and deſirous to bring that fatall, and Neighbouring Nation under our banner, and within the boſome of the Church Catholick, he faſtned upon the moſt promiſing and apparant meanes, which our
+<pb facs="tcp:62470:7"/> Conclave could teach him, &amp; put the ſame to as aſſu<g ref="char:EOLhyphen"/>red execution, as if <hi>Ignatius</hi> ſpirit, had made Pytha<g ref="char:EOLhyphen"/>goricall Tranſmigration to his venerable brains For the truly Aequivocall Father of that Church, with his Fellow-labourers, the Scottiſh Prelates, cauſed compyle a Service book, (to the great ſervice of our Church) wherein were moſt divinely couched, the true Orthodox Tenets, of the Ancient, Apoſto<g ref="char:EOLhyphen"/>lick, and Catholick faith; but ever oppoſed by the Enemies of the Truth in that Land; And in this Web of their compoſure, they had ſo ingeniouſly inter<g ref="char:EOLhyphen"/>laced, (for though the Generals were given out from Us, yet we committed the particulars to their owne diſcretion, <hi>reſpectivè</hi> in Times and States,) the ſweet Embelliſhments of our Art, and the Majeſtie and De<g ref="char:EOLhyphen"/>cency of our Miſſall, that none could well diſcover at the firſt glance, the girnes of our Holy Treaſon, by which we would have ſurpriſed the Heretick Soules, nor the Myſterie of the Work, unleſſe they had the benefit of <hi>Gregory</hi> the Great, and <hi>Bedaes</hi> Spe<g ref="char:EOLhyphen"/>ctacles, or <hi>Calvines</hi> Perſpective, by which he ſaw the Antichriſt ſay Maſſe within the walls of <hi>Rome.</hi>
+               <note place="margin">S'il eſt vray peut bien eſt r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> And thoſe Reverend Presbyters of theſe Northerne Churches, who ſought not themſelves, nor the glo<g ref="char:EOLhyphen"/>ry of this preſent world, that they might elude the People alwayes jealous of Novations, and dally with Princes, they advocate Authority, and cauſed ani<g ref="char:EOLhyphen"/>mat the Book with the ſtrong Influence of a Secular power.</p>
+            <p>This drift walkt a pace uncenſured, never queſtio<g ref="char:EOLhyphen"/>ned but in thought, with a whifle, or whiſper, &amp; what ever diſappointment it hath met with ſince, what ever
+<pb facs="tcp:62470:8"/> misfortun hath ſtopped the current, &amp; very ſpring of theſe Advancements, and overflowings; it ought not to be imputed to that never-enough-deſerving Prelat who is of the true Champ, and perfectly ſincere: But theſe other of <hi>Scotland,</hi> who were but his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and Neophytes, have given a little weake evidence of their good breeding in their profeſſion. For the Poli<g ref="char:EOLhyphen"/>tick inſtitutor had ſhown them the true &amp; Catholick paths, and mounted them on the Chariots of Dignity, and Power; But once elevate to a ſphere too high, and not able to ſuſtaine ſuch happineſſe, Powder was not more ambitious when the match met it, than their mindes to mount: which emboldened them to preſſe our holy will, a little immaturely; Their prepoſterous zeal, blown up with ſupererogation of obedience, did anticipate the maturity of our Deſignes, with an un<g ref="char:EOLhyphen"/>luckie diſcovery, to the eternall diſaſter of thoſe Poli<g ref="char:EOLhyphen"/>ticians, and back-ſliding of the great Cauſe; Had they gone more ſoftly, they had come more ſwiftly to <hi>Rome;</hi> but (good ſouls) preſuming on the faire Path of their meaning, went a little raſhly on, and brought within the wildernes of an Heretical, though National Law, by ſome lines or words dropt unadviſedly out, did innocently hurt the good Cauſe, &amp; gave the Ad<g ref="char:EOLhyphen"/>verſary advantage by it; Had they with an inſinuating diſtance, played a while with the Eare, and grop't the Peoples mindes, and found to what point their blood moſt inclined, &amp; by ſtrong Epiſcopall reaſons violen<g ref="char:EOLhyphen"/>ted their ſoules; had they prepared them with Purga<g ref="char:EOLhyphen"/>tives, before they adhibited the Book of Miſſall, too ſtrong for the Puritanicall complexion of the <hi>Scots,</hi> this day we might have gone in Proceſſion, and ſung
+<pb facs="tcp:62470:8"/> 
+               <hi>Te Deum,</hi> whereas we now ſhrink under an abortive wound, and are met to celebrate the Funerals of the moſt important Members of our Church, and moſt conſiderable ſouldiours of that Northern Conqueſt. The ſooner they diſperſed their Novations, and the more imperiouſly they urged obedience, the ſooner they haſtened to the diſplaying of all, and looſed the fair advantages of Times and Plots. If they had not tempted the Eye of Jealouſie too much, they ſhould quickly have gained, no queſtion, the Laicks, Sons and Daughters, of their meritorious Seducements.</p>
+            <p>But when before the fulneſſe of Time, the Book pointed out his unknowne head, O how it was moſt profanely perſecute, and how the ſharpe Invectives, like points of ſpears have rent &amp; diſcovered his bow<g ref="char:EOLhyphen"/>els! It was abhorred as a leprous brood, &amp; every Par<g ref="char:EOLhyphen"/>ret in the Land was taught to raile reproaches, the ve<g ref="char:EOLhyphen"/>ry Children to preach againſt it, and every mouth could moſt profuſely vomit forth his blaſphemies. The uncatholical multitude, like the ſpectacled inqui<g ref="char:EOLhyphen"/>ſitors of <hi>Venice,</hi> durſt pick out ſyllables of Hereſie, a<g ref="char:EOLhyphen"/>gainſt the Canonicall liberties of our Church Diſci<g ref="char:EOLhyphen"/>pline; The Laicall Judgements durſt canvaſe the My<g ref="char:EOLhyphen"/>ſteries of our Conclave, &amp; queſtion our Infallibility: But if our Holines had doubted their skill in cheating of ſoules; If we had not thought they had been more Spaniolized Gameſters, We ſhould have taught them the Times and ſecrets of State, and wrought out our Holy purpoſes more ſoftly, &amp; at length found means to make the<g ref="char:cmbAbbrStroke">̄</g> ſwallow it over as greedily, &amp; w<hi rend="sup">th</hi> as im<g ref="char:EOLhyphen"/>plicite obedience, as ever the Turks did their Alcoran: but we thought, it was no matter of difficulty to recon<g ref="char:EOLhyphen"/>cile
+<pb facs="tcp:62470:9"/> that ſilly Lunatick Church with ours, eſpecially ſince they began to have a Communion of words with Us, &amp; uſed familiarly that Idiome, which once heard of before amongſt them, would have made a whole Churchfal a ſwound, ſo much did we confide the con<g ref="char:EOLhyphen"/>tinuall aſſurances of our Attourneyes amongſt them as the Cabinet of my Intelligences can well inſtruct: And therfore our diſeaſed Prelates would have done well, ſometimes to have throwne into the peoples Eares, out of Pulpits, the authority of Councels, and guilded over the Rudeneſſe of their Pillules with the Homilies of Fathers; yet faithfull ſoules, we know their Intentions were meerly and purely Catholicall; but the affectionat paſſion to approve themſelves ob<g ref="char:EOLhyphen"/>ſequious to our Holy deſires, made them prove too Herculean, that offered to ſtrangle Serpents in their Craddles; for ſooner could the Segniory of <hi>Geneva,</hi> embrace the Miſſall, and the abject <hi>Valdenſes</hi> aſſent to our Supremacy, than that curſed Crew, could be mo<g ref="char:EOLhyphen"/>ved to welcome that book of Reformation, which we out of our Holy &amp; Fatherly care, as ſupream Head of the Church on Earth, conceived to be the Soveraigne way to convey the beames of our purity, through the darknes of thoſe Iſlands: but they had al drunk in ſuch a Mortal diſlike againſt it, as no authority was able to reſtraine the ſtrong inward thoughts of the diſloyall ſubjects, &amp; the hot murmurings, from comming to out<g ref="char:EOLhyphen"/>ward Reſiſtances, which al the Eccleſiaſticall Canons could not beat down, nor Secular power overcome; Thus being a People without wiſdome, given over to the ſpirit of Deluſion, and Hereſie, which wrought moſt powerfully in them, &amp; laying aſide all ſubjecti<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:62470:9"/> of their Execrable wills and judgements, infected with that Leproſie which they ſuckt from the Arch-enemies of the Truth, with an Immoveable Reſoluti<g ref="char:EOLhyphen"/>on, they combine againſt their own Anointed, &amp; thoſe likewayes whom by the Oyl of Punity we have con<g ref="char:EOLhyphen"/>ſecrate to be the Biſhops of their Soules; And not knowing the principles of Implicite Obedience, they begin to ſift thoſe undoubted Verities, which are as old as the Sunne and Starres, and doe arraigne our Ca<g ref="char:EOLhyphen"/>tholick Apoſtolicke Truths, before their Tribunall, where our Venerable Cleargy (being the Character of our own Image) in whoſe hands we have abſolute<g ref="char:EOLhyphen"/>ly put the Raignes of Eccleſiaſticall and Secular Go<g ref="char:EOLhyphen"/>vernment, muſt ſtand to their determination, and wait upon the diſcretion of an uſurped and Hereticall Cenſure. O high Impiety! The laſt of all Nations, (whoſe Revenues could hardly afford Us Oyle to our Sallads,) Is it to them we owe account of our Infalli<g ref="char:EOLhyphen"/>ble wayes? Shall not they take of our Hands, which Multitudes, Nations, People and Tongues, more re<g ref="char:EOLhyphen"/>garded by Heavens than they, have kindly accepted? Shall they refuſe to drink of that Cup wherewith we have inebriat the powers of the World?</p>
+            <p>No, Counſellors &amp; Rulers of the Earth, though hi<g ref="char:EOLhyphen"/>therto we have ſailed with a very proſperous wind, &amp; were hopefull to arrive at the Port of our Deſires, yet now certainly our Deſignes ſeeme to be ſcattered by a Thing which they call, a <hi>COVENANT,</hi>
+               <note place="margin">Hinc dolor lachrymae.</note> even as the fired Ship put in, ſevered the Fleet in the 88. For when this black Hereſie had diſplayed the Enſignes of that Covenant, then whole Squadrons, Legions, and Numbers of Hereticks, like Frogs, were ſo eſpouſed in
+<pb facs="tcp:62470:10"/> their Soules to the devotion thereof, that ſooner might you blow away the light from the Sunne, than pull them from their Covenant, or work up their feſtered Judgements to right reaſon. This accurſed Cove<g ref="char:EOLhyphen"/>nant, the King of all Monſters in Religion (which is able to make all other Monſters to be unadmired, and draw all number to this only) out of whoſe wombe, like the Trojane Horſe, are like to come a furious Crew of Undaunted Hereticks to braſh the wals of <hi>Rome</hi>) gives name to a Sect, which no Nation ever heard of, and if we were to tranſlate, we could not finde a word to expreſſe the ſame in any Language, The ſtrength of our confidence and life of our hopes, all thoſe rank inſinuations and alluring ſnares where<g ref="char:EOLhyphen"/>with we had enlived, and informed that Book of Ser<g ref="char:EOLhyphen"/>vice, like a Serpent hath got his Head bruiſed with a bolt ſhot from that Covenant, Nature ſeemes to de<g ref="char:EOLhyphen"/>bar us of all meanes of help, and if the ſublimated In<g ref="char:EOLhyphen"/>ventions of our policies, could ſerve to reſtore, yet for<g ref="char:EOLhyphen"/>tune likewayes ſeemes to thunder all, and threatens to ſhiver our Machinations; for out of the Gates of Hell doe all the Infernall powers ruſh like a River, whoſe current cannot be ſtopt, &amp; who can ſtay their courſe? Indeed as the God of Truth in all the Exigencies of the Church, doth ſtir up the ſpirit of truth, to vindicat his purity from the aſperſions of the wicked, who love Darknes better than Truth, ſo have we found a moſt gratious and true witneſſe amongſt themſelves; for their owne Countreyman (in whom all courtly and Catholicall graces doe reigne and throng moſt emi<g ref="char:EOLhyphen"/>nently) hath with a very good ſucceſſe,<note place="margin">un brave homme tout a faict, &amp; miroir qui ne flatte point.</note> drawne his vi<g ref="char:EOLhyphen"/>ctorious and triumphing Pen againſt them and their
+<pb facs="tcp:62470:10"/> Couenant, We had ſufficient hopes that his Magnifick <hi>MANIFESTO</hi> ſhould have curbed the Inſolencies of theſe phanatick Covenanters, laid open their ſhame to the World, or reſtored their diſeaſed Judgements; But he hath fallen ſo many Bowes ſhort of his Refor<g ref="char:EOLhyphen"/>ming Intentions, that like Oyl throwne into the flame it hath begotten whole Generations of Covenanters, who wil impeach the advancement of our Kingdome, more then ever <hi>Mahomet,</hi> and his fellow <hi>Sergius</hi> did obſcure <hi>Boniface;</hi> Yet the man hath put forth great ſtrength of wit, his Reward doth moſt duely attend him, he muſt have ſome round preferment and corpu<g ref="char:EOLhyphen"/>lent Dignity, that he may leade a Lordly life,<note place="margin">Honor eſt prae<g ref="char:EOLhyphen"/>mium virtutis.</note> and raile at eaſe; We muſt let a Beame fall upon him, by which our Highnes uſeth to keep deſert warm, and entertain the Life of a Holy Zeale to the great Cauſe. Certainly he muſt be <hi>Exalted,</hi> a Maſter-piece of Man,<note place="margin">This may turn Propheticall.</note> compoſed by Heavens for a great Princes favour, &amp; Kingdomes Love: Exact Envie cannot finde a place, to ſtick a blot on perſon or fame; We do ordaine that never-enough admired-Book, the whip and ſhame of Covenanters, for the Glory of his moſt doctorall indewments, and reverence of his loyall pains in our Service, be tranſla<g ref="char:EOLhyphen"/>ted in all Tongues and Languages, that his renowne may paſſe from one end of Heaven to the other; for truly he hath moſt valiantly ſtood in the Gap to hold out this Schiſme and Hereſie from encroaching and prevailing: But the practiſes of theſe Demoniaques are without exemple, and all Language is too narrow to expreſſe their virulent &amp; aculeat Humour; for they have torn theſe Reverend names of Arch-biſhops, Pre<g ref="char:EOLhyphen"/>lates, and Presbyters, which ought to be uſed with Ho<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:62470:11"/> Ceremony. They have lybelled, arraigned, ſenten<g ref="char:EOLhyphen"/>ced, baniſhed, and O I'm drunk with rage, that their Impiety might appeare in its perfect dye to all after-ages, they have <hi>Excommunicat</hi> the Right Reverend Fathers in God.<note place="margin">Sic erat in ſatis.</note> Now my Epiſcopall dignity lyes pan<g ref="char:EOLhyphen"/>ting at this Wound; Here Modeſty ſuffers, all that's Virtuous bluſhes, and Truths ſelf like the Sunne vext with miſt, looks red with anger, Mine honour is caſt off as the Olive ſhakes off her flower; It is all ſwept away at one caſt: My refined noſtrils, doe ſmell a diſtracted hurry, great things are a-working either in Heaven or Hell: Here is a State puzzell, this execrable Impuden<g ref="char:EOLhyphen"/>cy hath given a damnable check to our Apoſtolicke Deſignes; It hath Damped up the way of our Catho<g ref="char:EOLhyphen"/>lick Stratagems: And if our undaunted Power, with the helpe of our Sonnes, and Executioners, the Princes of the Earth, doe not obviat the Thunder cracks of this glorious Oſtentation, and uſhering ſtorme of Truths Triumph, it will certainly advance with a ſhrewd Inſolency to our own Throne, and confound the Glory of our great Name: Nay, we may make our ſelves ready for perdition, lay by our Purple Roabes, let Kings and Emperours returne to their own Sacrilegious Poſſeſſions, &amp; drink in the honour of Martyrdome with open throat.</p>
+            <p>They have placed alſo Propheticall confidence in that their Covenant, as <hi>David</hi> did in his little ſtone which he ſunk in <hi>Goliahs</hi> braines, and do certainly be<g ref="char:EOLhyphen"/>leeve (ſuch is the ſtrength of the ſpirit of Deluſion) that it ſhall prove like <hi>Daniels</hi> ſtone, hewen out of the Mountaine without hands, which filled the Earth with the greatneſſe thereof: We doe not diſſemble,
+<pb facs="tcp:62470:11"/> but the fame of it hath made the whole members of our Hierarchie tremble and ſhiver. And if the adja<g ref="char:EOLhyphen"/>cent parts to the affected places be not timely anoin<g ref="char:EOLhyphen"/>ted with the Baulme of <hi>Gilead,</hi> which flowes moſt luxuriouſly (both for our ſervice and pleaſure) from all the Common-wealths of <hi>Europe,</hi> to our Cabinet, as the Center of their Tribute; It may fortune to en<g ref="char:EOLhyphen"/>danger the whole Body of the Church. For it is a moſt uſurping poyſon, mortally ſearching into all the Veines: We doe not eſteeme that deſperate Church of <hi>Scotland,</hi> We abhorre to waſte a thought upon that loſſe, which we value no more, than the Carbuncle which <hi>Clement</hi> the fifth, transferring the Seat from <hi>Avignon,</hi> did loſe by a fall from his Horſe. But theſe our holy Children, Paterns of Piety and Sanctitie, the hope of our Conſolations in theſe Northerne Ilands, the Great Officers of our Church, ordained before time to propagate the ſaving Light to a Land that dwelt in darkneſſe, theſe loyall and faithfull Miniſters of the Truth, who have devoted their lives, and neglected the World for our ſervice; theſe We do juſtly bewaile with our Apoſtolick tears: It cuts out hearts, that thoſe Holy Patriarches, ſhould have received the Crowne of Martyrdome in ſo dangerous a way; for now We do, as it were, ſtand over a Vault of Powder, where the Match lyes a-kind<g ref="char:EOLhyphen"/>ling below. And which is the bane of our grudgings, we begin almoſt to apprehend, that the buſineſſe of the Covenant ſhall prove a Leviathan ſcandall, to lye rolling and troubling the chryſtall waters of other Nations devotions, &amp; to the Engliſh eſpecially (which was wont to be our <hi>Puteus in exhauſtus</hi>) prove as great
+<pb facs="tcp:62470:12"/> a ſtumbling-block as the altars &amp; Idols of <hi>Rome</hi> are to the Jewes converſion. Here is the true matter of grief, and here lies equally ingaged the life and ſtate of our Church. Theſe Tragedies will fill the Adverſaries mouths, &amp; blow the Lutherans cheeks till they crack againe: Now the whole liberty of our Church doth ſuffer,<note place="margin">Pernicioſa conſi<g ref="char:EOLhyphen"/>lia plerumque in: Authores re<g ref="char:EOLhyphen"/>dundant.</note> the Hope of abſolute Monarchy begins to be Eclipſed; all things move portentuouſly a ſtrange way: For what ever gracious ſervices, and worthy the fair reverences of their places theſe Venerable ſoules have done, yet have they nothing effectuat, but wrought out their own death, even as the blind Moall in caſting his ambitious hils up, is often taken and de<g ref="char:EOLhyphen"/>ſtroyed in the midſt of his advanced work. Thus while they were raiſing the Glory of the houſe of Candor, they are ſuddenly throwne downe, and their building levelled to the duſt; And that Iniquity might ruine them with a more plentifull confuſion,<note place="margin">Magni viri, &amp; bene meriti de Republ. tandem obruuntur mag<g ref="char:EOLhyphen"/>nis procellis.</note> and waſte the treaſure of revenge upon their harmleſſe Soules, they have excommunicat them, &amp; delivered them up to be buried under the heap of ſhame, never to apear again.</p>
+            <p>Yet all peace be multiplied upon their moſt Epiſco<g ref="char:EOLhyphen"/>pall Soules, We heartily accept their unfained zeal, and pronounce them the well beloved Children of the Roman Church, though they did not well know how to perſonate the buſineſſe intruſted to them<g ref="char:punc">▪</g> and worke out the Salvation of the Cauſe with ſubtilitie and pati<g ref="char:EOLhyphen"/>ence.<note place="margin">They ought not to loſe their Soules in his Holineſſe ſervice, though they have ſpoi<g ref="char:EOLhyphen"/>led their for<g ref="char:EOLhyphen"/>tunes.</note> And here by the power given to Us from a<g ref="char:EOLhyphen"/>bove, as the Univerſall Biſhop of the Catholicke Church, Wee doe abſolve them from all dangers of ſuch Impious ſentences gone forth againſt them, wher<g ref="char:EOLhyphen"/>with they would labor to ſtaine the face of Truth,
+<pb facs="tcp:62470:12"/> which they call Excommunication; And upon the contrary, as really and truely, as ever <hi>Conſtantine</hi> the great gave to <hi>Sylveſter</hi> the Citie of <hi>Rome,</hi> with the Ter<g ref="char:EOLhyphen"/>ritories thereof; ſo in all ſincere profeſsion, fatherly and effectuall love, doe we moſt heartily beſtow a free and plenarie Indulgence, for all their Veniall and Mortall ſinnes, to their departed Soules, and ordaine them by the Authoritie of the Keyes of the Kingdome of Hea<g ref="char:EOLhyphen"/>ven, to be related amongſt the number of Canonized, who have loſt their life, for the libertie of our King<g ref="char:EOLhyphen"/>dome; And Wee doe ſolemnly appoint dayes of Com<g ref="char:EOLhyphen"/>memoration to be ſet apart, wherein a <hi>Requiem</hi> to be chaunted in all the Cathedralls of our See to their bleſ<g ref="char:EOLhyphen"/>ſed Soules, though the whole Artezans of <hi>Italie</hi> ſhould ſterve; never had the Calendar of Saincts a more noble acceſsion; never had the Adverſaries more juſt reaſon to erect Trophees upon our Diſaſters; Let the ſpirit of diviſion, of ſhame, and confuſion, rage amongſt them unmercifully. Wee doe abſolve that Indocile People, from all oath of allegeance, and proclaime a free li<g ref="char:EOLhyphen"/>bertie, to any Catholike King or Republick whatſo<g ref="char:EOLhyphen"/>ever, to invade that Kingdome ſecurely. That it may be <hi>Primi occupantis;</hi> For certainly we have as iuſt rea<g ref="char:EOLhyphen"/>ſon to powr out the Phialls of our Indignation, and ful<g ref="char:EOLhyphen"/>minate our extorted Excommunication, againſt both Prince and People, as ever <hi>Alexander</hi> the third our Predeceſſour of holy memory had, when he excom<g ref="char:EOLhyphen"/>municat his ſtubborne Vaſſall, <hi>Henrie</hi> the ſecond of <hi>England,</hi> and brought his Royall and haughtie pride to that ebb, that he was conſtrained to receive his Crowne and Confirmation thereof from Us.</p>
+            <p>But what? (Invincible Souldiours in our ſpiritual war<g ref="char:EOLhyphen"/>fare)
+<pb facs="tcp:62470:13"/> though there be a deadly overthrow given to our beſt Reſolutions; Though the King of that ſcurvie Co<g ref="char:EOLhyphen"/>venanting Land, like a Lyon Rampant, with a daring courage, hold out his inexorable ſword for the advance<g ref="char:EOLhyphen"/>ment of that fatall Reformation (as they call it) though thoſe wanton Hereticks do now inſupportably inſult to ſee him an arrant Covenanter, &amp; glory more therin the<g ref="char:cmbAbbrStroke">̄</g> all the Gold of <hi>India;</hi> though now they triumph moſt profanely, and think they have victoriouſly baniſhed all Novations and barr'd out all diſlikes, with the Rampard of an everlaſting Civill Sanction, and have enthroned their Hereſie by a Municipall Law to be I<g ref="char:EOLhyphen"/>dolized for ever: And though likewayes it were al<g ref="char:EOLhyphen"/>moſt as eaſie to blow up the whole Ile of <hi>Brittaine</hi> to the Moone with a Powder Traine, as to divorce the Princes abuſed ſoul,<note place="margin">Conſiliariorum impetus, ſaepè abr piunt bonos &amp; moderatos Principes.</note> from thoſe inward and mal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnant Hereſies which have been propagate to him from his Uncatholicall Anceſtors; though the moſt pregnant Inſinuations have proved almoſt ineffectuall; and though the dazeling pompe of the neighbouring Churches and Kingdomes of the World, can nothing invite him to be mollified, and, ſweetned toward U<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; but, like an Adder, he ſtill ſtops his Eare at the voice of the charmer; And though the Alliance with the moſt Potent and Chriſtian French King can nothing ſerve to inveigle the Eyes of his mind; Though (my dearely beloved) all theſe heavie Verities diſcover to Us, many and huge mountaines of Impediments, which will be hard to remove, let us gird up our loynes notwithſtan<g ref="char:EOLhyphen"/>ding.</p>
+            <p>Let not Us, who are the Soule and Light of the World, ſubmit our ſelves and our Cauſe to the Ty<g ref="char:EOLhyphen"/>rannie
+<pb facs="tcp:62470:13"/> of deſpair: Recover our Game: That handfull of Heretickes, are but as a Schiſmatick Pawne in the play: High Impietie &amp; Blaſphemie it were againſt the Apo<g ref="char:EOLhyphen"/>ſtolick ſeat,<note place="margin">Omne malum ab Aquilone.</note> to think the ſplendor and honour thereof could be intereſſed &amp; clouded by any thing from theſe parts; for though ordinarily all evil flowes from theſe turbulent Climats, and the Gothes and Vandals have ſundry times made inundation upon our Patrimony, and moſt profanely troden under foot our Domicel, <hi>Italy,</hi> the Lady and Miſtris of the World, though of<g ref="char:EOLhyphen"/>tentimes Emperours and Kings of the Earth, have ſha<g ref="char:EOLhyphen"/>ken their Scepter upon Us, and offered to ſet bounds to our unlimited powers and deſires, yet I hope, we are as able to wind about the ſacrilegious deſignes of Se<g ref="char:EOLhyphen"/>cular and Hereticall factions, as ever any of our holy Predeceſſors.</p>
+            <p>Wee know perfectly how to begger Kingdomes by diſſimulation, unjoint the faire frame of peace, and traf<g ref="char:EOLhyphen"/>fick, poyſon allegeance too: And the transferring of Empires, the ruines of Kingdomes, the excommuni<g ref="char:EOLhyphen"/>cation and depoſition of Kings, and devaſtations by fire and ſword, are the ordinary marks and characters (you know) of the great Stateſmen of our Order, who doe indeed moſt canonically hold, that theſe practiſes are moſt lawful for them, conducing to the growth of the Church, &amp; vindicating our Temporall Juriſdiction over Princes. Let us not therefore faintly give over, but ſolace our ſelves, with memory of great Policies paſt, wherewith we have chaſtiſed Emperours, Kings, and Princes, and redacted them to the Obedience of the Mother Church: What ever we ſhall happen to loſe by battell (as <hi>Matchiavel</hi> records of the Veneti<g ref="char:EOLhyphen"/>ans
+<pb facs="tcp:62470:14"/> who know all the removes of their Game) Let us labour to recover the ſame by treatie, and be ſtill la<g ref="char:EOLhyphen"/>bourers in the great Worke; Let us aſſemble all the powers of our ſoules, and combat the Cauſe.</p>
+            <p>I'll alambique the <hi>Sorbone</hi> Genius, and ſquize the ſubſtance of all the Common-wealthes of <hi>Europe,</hi> ere I finde not a <hi>Catholicon,</hi> and Soveraigne Elixar for this new ſprung Poyſon, which, if the pride thereof be not counter-checked, is able to defloure the glory of our whole Church: No, no, thoſe who will not gentlie reſigne themſelves, to the embracements of the ancient Apoſtolicke Truth, which we are ſent to offer and preach to the World, as the great Paſtor of the Church, muſt certainly be broken: And before our Miter be not adored by all, amongſt Nations, Tongues, and People, I will firſt threſh the Mountaines and Iſlands of the world with a fleale, I will beat them to powder, and fanne them before the wind of my wrath; I will arme the Princes of the Earth, and cauſe them over-turne them, that they never appeare more than the Monaſteries which are ſunk about <hi>Venice.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:62470:14"/>
+            <head>Aliud.</head>
+            <l>CHaron have ov'r,<note place="margin">BB.</note> the Ghoſtlie Fathers come</l>
+            <l>To thy torne Boat, and their eternall Home.</l>
+            <l>Who calls the Ferry-man of Hell? BB.<note place="margin">Ch.</note> It's wee</l>
+            <l>Prime Stateſmen of the Roman Prelacie;</l>
+            <l>Bring not thy ſcurvie Barge which looks ſo thin</l>
+            <l>As any Cloud, as old as Sunne, and Moone,</l>
+            <l>Di'lles in theſe Prelates pride,<note place="margin">Ch.</note> they'ave left the Earth</l>
+            <l>Into a fair combuſtion, after death</l>
+            <l>They're come the very Hells for to confound,</l>
+            <l>And our Infernall Common-wealth to wound.</l>
+            <l>Enter right Reverend, many Catholick Kings,</l>
+            <l>Popes, Monarchs, which this nimble Veſſell brings</l>
+            <l>Each hour, into theſe fatall Manſions, doe</l>
+            <l>Embarque without a ſcruple: what are you?</l>
+            <l>Come, good my Lords, you muſt be rul'd by me,</l>
+            <l>You had your Time, now take your Deſtinie.</l>
+            <l>Though your big-bellies could engroſſe a Coach,</l>
+            <l>Yet if your ſoules ſink, I'll byde your reproch.</l>
+         </div>
+         <div type="to_the_author">
+            <pb facs="tcp:62470:15"/>
+            <head>To the Author of this Second moſt flowing, and praiſe-worthy Speech.</head>
+            <lg>
+               <l>I Thought deare Frind, that firſt Eſſay of thine,</l>
+               <l>Which thou to me ſo kindlie didſt propine,</l>
+               <l>Should prove the period of thy pretious Pen,</l>
+               <l>And pauſe, to which thou could not reach again.</l>
+            </lg>
+            <lg>
+               <l>But higher ſtill thou ſpringſt and I do find</l>
+               <l>This Second Birth, the Modell of thy Mind</l>
+               <l>Like to a cleare Spring powring forth his drills,</l>
+               <l>Which ſweetly glyding through two neighbour hills,</l>
+               <l>With fertile Motions Meadows overflow</l>
+               <l>Till they turne ſtreames, and ſtreames to Rivers grow.</l>
+            </lg>
+            <lg>
+               <l>So that tranſcending inexhauſted vein,</l>
+               <l>From forth the Treaſure of a fertile brain</l>
+               <l>Diſtills ſuch Nectars of renewed ſtore,</l>
+               <l>Are ſweeter now, though ſweeteſt of before.</l>
+               <l>And ſo no doubt, theſe Rivulets ſo cleare,</l>
+               <l>Shall of full growth faire Rivers once appeare.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>M. D. Prymroſe.</hi> J. C.</signed>
+            </closer>
+         </div>
+         <div type="tract">
+            <pb facs="tcp:62470:15"/>
+            <head>AN ANSWERE To His Holineſſe <hi>Remonſtrance: BY</hi> Cardinall <hi>Antonio</hi> Di <hi>Barbirim</hi> in name of the reſt of the Roman <hi>Clergy,</hi> in the <hi>Conſiſtory</hi> at <hi>Rome.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>OST HOLY FA<g ref="char:EOLhyphen"/>THER,</hi> to whom we convert our hum<g ref="char:EOLhyphen"/>bleſt duties and ſa<g ref="char:EOLhyphen"/>crifices of our devo<g ref="char:EOLhyphen"/>teſt thoughts, Great Monarch of the Church, to whoſe Glory do all our acti<g ref="char:EOLhyphen"/>ons bend as the laſt ſcope of their advantage. We do moſt paſſionatly
+<pb facs="tcp:62470:16"/> condole the juſt anguiſh of your afflicted heart, certainely our Imaginations are ſo ſtrongly ſea<g ref="char:EOLhyphen"/>zed, by the ſhaking of theſe turbulent times, that wee have almoſt reſigned the whole pow<g ref="char:EOLhyphen"/>ers of our Soule to feare and wonder; Our tongues are captived, and chayned up with<g ref="char:EOLhyphen"/>out a ſound.</p>
+            <p>Wee can beare record, that your Holineſſe, like Heavens glorious Luminarie, hath bounti<g ref="char:EOLhyphen"/>fully diffuſed the warme beames of Puritie, through the whole Church Catholicke, and every place thereof, You have not onely guil<g ref="char:EOLhyphen"/>ded the tops of the Mountaines and made the tal Cedars of Lebanon to laugh, ſwelling them with the graces of your nurſing favours; but hath likewaiſe daigned to viſit the humble Valleies, and made the Marjoline, and Myrrhe finde the benignitie of your favourable aſpect, and the influence of your Apoſtolicke entertain<g ref="char:EOLhyphen"/>ments.</p>
+            <p>Thus like the Soveraigne Good, who de<g ref="char:EOLhyphen"/>lights to communicate his al embracing ſweetnes you would extend the ſkirts of your favour upon the moſt neglected parts of the World, even that fatall Kingdome of <hi>Scotland</hi> buried in darkeneſſe and ignorance. Wee that are the ca<g ref="char:EOLhyphen"/>binet and Depoſitary of your ſecret workings in the Miſterie of your Epiſcopizing, doe well know how you have beene (as it were)
+<pb facs="tcp:62470:16"/> hotly courting that ſilly people, and with what a fatherly zeale you have wooed that rebellious and gaineſaying Nation, which hath anſwered the hopes of your long-wiſhed Ioy, with the high Anatheme of a cruell Covenant, and a fu<g ref="char:EOLhyphen"/>rious Combination never to bee diſſolv'd againſt your Holineſſe, the great Officer of the Church, Chriſts Vicegerent on Earth, and al the Maine<g ref="char:EOLhyphen"/>tainers of the Articles and Ceremonies of the Ro<g ref="char:EOLhyphen"/>main faith. We wiſh our heads were waters, &amp; our Eyes fountaynes of Teares, to weep for the cala<g ref="char:EOLhyphen"/>mities of our mother. The fears of Hereſis encreaſe &amp; all our diſſaſtrous diſappointments, which your Holines out of the plenitude of your wiſedome, and ſpirit of ſagacitie, hath moſt divinely laid open to our weary ſoules. Wee are fallen into the ends of the world, and perſecution muſt come for the elects ſake. Now the wicked and Heriticks doe hold the Church by the throat, and now wee muſt move every Oare, ſtraine all aſſi<g ref="char:EOLhyphen"/>ſtances, ſollicite all our devoted Crownes, and ſend forth the Kings of the Earth like victorious <hi>Hercules,</hi> to deſtroy the pullulating heads of this terrible and Herittical Serpent, &amp; to ſuppreſſe that al-ſpreding Covenant of <hi>Scotland,</hi> the moſt horrible Invention, and uſurping Monſter that ever hel hatched: It hath appeared like a blazing Comet in the North (with themſelves may the event dwel of the portentuous preſage) &amp; hath in
+<pb facs="tcp:62470:17"/> many, who were otherwaies in a pretty apti<g ref="char:EOLhyphen"/>tude, and maturity to be good Catholicks, ſtir<g ref="char:EOLhyphen"/>red the ſpirit of Curioſity, which may marre Im<g ref="char:EOLhyphen"/>plicite Obedience,<note place="margin">Qui malè fa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it, odit lucem.</note> the ſubverſion of which Ar<g ref="char:EOLhyphen"/>ticle, will make the whole frame of our Myſte<g ref="char:EOLhyphen"/>ry to cracke: A dangerous perſpective for Laicks to looke into our Conſiſtory <hi>Per Madonna ſan<g ref="char:EOLhyphen"/>tiſſima di Loretta.</hi> When we fall upon the buſi<g ref="char:EOLhyphen"/>neſſe of that Northerne League, and the Enſign of the Covenant displayed, wee looſe our ſelves, and cannot plumb that deep, It hath affrighted us like a lightning, made all the Chriſtian Kings ſtart up on their feet with an, What is it? It is ſurely a Thunderbolt, broke vpon the very head of <hi>S. Peters,</hi> and proudly entring, hath over<g ref="char:EOLhyphen"/>turned the Alters, throwne downe the Images, diſmantled the Beauty of the Church, aſtoniſhed the whole Ligators of our Moſaick Workes, and profained the whole glory of the Temple. A ſpeare it is, which thruſt through the bowells of State Catholicke, hath dared the very heart of Spirituall Monarchy.</p>
+            <p>Your Holines, whoſe Vigilant Eye, doth moſt laboriouſly ſurvey the conditions of Times and States, and with a fatherly care watch over the crowns &amp; Scepters of Nations, hath in trueth and ſtrength of paſſion, moſt Epiſcopally diſcovered the Monſter begotten by the nimbleſt witted di<g ref="char:EOLhyphen"/>vel, nurſt up in theſe Northern deſarts, &amp; deſtinat
+<pb facs="tcp:62470:17"/> to meaſure the world with his quaint paces. Wee doe feare that by the ſting and tayle of a Scorpio<g ref="char:cmbAbbrStroke">̄</g>, it ſhall naile the tender Church throw with ſhame and torment. Let us provide it caſt no venome beyond Seas, for then ſhall it mount over the Alpes, and with his poyſonable at<g ref="char:EOLhyphen"/>tempts, preſume to aſſault your Holineſſe owne Domeſticks: Neither ſhall the proud Piren<g ref="char:EOLhyphen"/>nees keepe it from thruſting in to <hi>Spayne,</hi> the moſt intemerate and immaculate place of the Church body; It will mock the ſpectacled Fathers of Inquiſition, and creepe there inviſiblie like <hi>Fratres Roſeae Crucis.</hi> And no <hi>index Expur<g ref="char:EOLhyphen"/>gatorius</hi> (which like the <hi>Purgatory</hi> fire, we have ever with Cathollicall Lenitie uſed, either for mollifying, or eradicating other Monſters) will ſerve to correct or baniſh this one. Truely, thoſe diſeaſed prelates (Holie Father) have ſpun us no fair thred, nor have they proven grand So<g ref="char:EOLhyphen"/>phies, when by the conqueſt of that poor Kingdo<g ref="char:cmbAbbrStroke">̄</g> (which would never make any conſiderable ac<g ref="char:EOLhyphen"/>ceſſion to your Revenues, but was like the drop to the Bucket,) and promoving immature No<g ref="char:EOLhyphen"/>vations, they have occaſioned too innocently the loſſe of our Game, and endangered the My<g ref="char:EOLhyphen"/>ters <hi>reputation.</hi>
+            </p>
+            <p>If theſe <hi>perturbations</hi> doe once come unto a deepe working, and beginne to extend their prophaine <hi>Petulancies,</hi> We feare, your <hi>Holines,</hi>
+               <pb facs="tcp:62470:18"/> whoſe all adored Miter, made Proſtrate Crowns to tremble, and Scepters ſhake, may bee glad to bee ſheltered in S. <hi>Angeloes</hi> Caſtle, or run to the hornes of the <hi>Altar;</hi> And wee the Suns of <hi>Harmonie,</hi> who are the Carbuncles which adde ſplendour to your Spirituall Crowne, muſt betake our ſelves to the favour of <hi>Times</hi> and <hi>Fortunes,</hi> and leave our goodly Dignities with the fat of their corpulent affluence, to the devo<g ref="char:EOLhyphen"/>tion of ſacrilegious Souldiers.</p>
+            <p>Nay certainly, if this ſwelling Combuſtion do but offer to ſtaine the ſerenity of our <hi>Heavens</hi> with any <hi>ſmoake,</hi> and ſtiffle our <hi>purity,</hi> wee are all confounded, wee are all blowne up, and the Kings of the <hi>Earth,</hi> the powers of the <hi>World,</hi> and every Soule of Man, even the begging <hi>Ca<g ref="char:EOLhyphen"/>puchine,</hi> who can glory of nothing but his Ve<g ref="char:EOLhyphen"/>nerable Beard, his Chappler, and torne Bre<g ref="char:EOLhyphen"/>viarie, ſhall regard your Holineſſe no more, ſhal give you no more bended knees, nor ſacrifices of Real, &amp; Spiritual Tribute, then to the man of the Moone. And you knowe, moſt <hi>Catholicke Monarch</hi> of BB<hi rend="sub">s</hi>, If thoſe golden floods, which doe moſt proudly play upon the Philoſophal ſtones of your Vatican, be once withdrawne and call'd back to their Tributary Sources,<note place="margin">By the right of mer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te, and the Salique law</note> (to which you have as undoubted and irredee<g ref="char:EOLhyphen"/>mable a right, as to thoſe very omnipotent Keyes, which you carry, and to the Monopolie of all
+<pb facs="tcp:62470:18"/> Benefices, which you have happily engroſſed to your moſt <hi>Archiepiſcopall</hi> perſon) Wee can<g ref="char:EOLhyphen"/>not but faint, who are fed by the refreſhments of thoſe ſtreames: Our <hi>Cardinall Caps,</hi> be<g ref="char:EOLhyphen"/>ſtowed upon us by your <hi>Holineſſe</hi> as Garlands of our <hi>Honour,</hi> and <hi>Eminencie,</hi> muſt needs wi<g ref="char:EOLhyphen"/>ther and fall away, and remove the Suns beame<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, where ſhall his glory be? If we, as ſo many Earth-treading Starres, who adorne the Sky of your State be ſtript of our Beautie, if wee ſhutt and fall, in what <hi>Primum Nobile</hi> ſhall your Sanctity ſhine! Wee are ſet about the Seate of your Majeſtie, as Summers ſpeckled flowry Garment, and if wee bee blaſted by the Jn<g ref="char:EOLhyphen"/>juries of tempeſtuous times, what ſhall embel<g ref="char:EOLhyphen"/>liſh your Holines? Theſe are heavy trueths: but under the Roſe be it ſpoke <hi>Santiſſimo Padre.</hi> Some blowes wee have received, more are feared: <hi>Heavens</hi> and <hi>Earth</hi> doe know, and all <hi>Courts,</hi> all <hi>Churches</hi> are filled with the fortune,<note place="margin">
+                  <g ref="char:V">Ʋ</g>no dato ab<g ref="char:EOLhyphen"/>ſurdo, mult<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſequuntur.</note> or miſ<g ref="char:EOLhyphen"/>fortune of the <hi>great buſines;</hi> that abortive <hi>Service booke,</hi> and thoſe <hi>Canons,</hi> have ſhamefully diſ<g ref="char:EOLhyphen"/>obliged the <hi>Church Catholick,</hi> and with their roa<g ref="char:EOLhyphen"/>ring, have awaked and diſturbed all <hi>Chriſten<g ref="char:EOLhyphen"/>dome,</hi> and turned their ſulphurious throates againſt their Makers. There are certainely ſome ungracious uncathollicall planets raging, who have powred forth the malignitie of their ve<g ref="char:EOLhyphen"/>nomous Influence upon your reforming and <hi>Fa<g ref="char:EOLhyphen"/>therly
+<pb facs="tcp:62470:19"/> Vndertakings.</hi> The <hi>Heavens</hi> diſtill their ſterner frownes, and threaten us with their baddeſt <hi>Aſpects.</hi> Wee were ready to teare the clouds with Bells ringing, and prieſts ſinging, and thought the ſmoake of our <hi>Bonfires</hi> ſhould ſhortly aſcend to <hi>Heaven,</hi>
+               <note place="margin">Your bellement Meſſieurs.</note> and ſtaine the <hi>Sunnes</hi> face: <hi>But holie Father,</hi> It's no time for quaint ſpeaking, wee ought not <hi>diſſemble</hi> nor uſe <hi>Jn<g ref="char:EOLhyphen"/>dulgence</hi> to our <hi>wound</hi> Let us <hi>mittigate</hi> and re<g ref="char:EOLhyphen"/>ctifie our <hi>woes</hi> as <hi>cunningly</hi> and <hi>quietly</hi> as wee may, the ſpate of <hi>diſaſtrous calamitie</hi> hath al<g ref="char:EOLhyphen"/>moſt drowned our <hi>faire Hopes</hi> in <hi>deſpaire.</hi> A cold <hi>feare</hi> ſits black on each of our <hi>Hearts;</hi> We have not beene <hi>well inward</hi> with the Minde of <hi>Deſtinie</hi> in the buſineſſe of theſe <hi>Northerne Ne<g ref="char:EOLhyphen"/>gotiations.</hi> It ſeemes we have not beene ſuffici<g ref="char:EOLhyphen"/>ently aſſiſted, but deſerted in this particular; <hi>Conſult the Propheſies, Set your Aſtrologitians a worke;</hi> may be you finde, (<hi>but Heavens bleſſe the Church Catholicke,</hi> and avert) that ſome of theſe <hi>Northerne Princes</hi> have <hi>Ca<g ref="char:EOLhyphen"/>pricornum aſcendentem in Horoſcopo,</hi> which is, and hath ever beene the moſt <hi>fatall</hi> and <hi>male<g ref="char:EOLhyphen"/>volent</hi> ſigne to the <hi>Roman Empire</hi> in all the <hi>Zodiaque:</hi>
+               <note place="margin">Imp Carolus <hi>5.</hi> Franſ. Rex Galliae Carolus Corbonius. Coſ<g ref="char:EOLhyphen"/>mus Med. Flo<g ref="char:EOLhyphen"/>rentiae Dux.</note> And for the trueth heereof, Wee call the <hi>Times</hi> never to bee forgotten, and <hi>Hi<g ref="char:EOLhyphen"/>ſtories</hi> of all <hi>Ages,</hi> to witneſſe: From thence indeed doe the firſt cloudes appeare: And as in your <hi>Holineſſe Remonſtrance</hi> was piouſly ob<g ref="char:EOLhyphen"/>ſerved,
+<pb facs="tcp:62470:19"/> all Propagations of Empyres, all Irruptions and Effuſions of People,<note place="margin">Aſſyrti vice<g ref="char:EOLhyphen"/>runt Chaldeos. Aſſyrios Medit Graeci Perſas: Romani Poenos: Gothi Roma<g ref="char:EOLhyphen"/>nos: Turcae fregerunt Ara<g ref="char:EOLhyphen"/>bes: Tartari Turcas: Angli Gallos: Scot<g ref="char:punc">▪</g> Anglos.</note> are ever found to have beene from the North to the South. If this bee the inclination of our averſe Spheares thus unkindely to uſe Vs: If this be the purpoſe of him who beholds the Ends of the World, to preſent this cup to the Ro<g ref="char:EOLhyphen"/>mane Prelacie, and put our ſpirituall King<g ref="char:EOLhyphen"/>dome, which wee beleeve ſhall proſper ſo long as the Heavens cover the Earth, thus in Jeopardie: Certainely thoſe Vncircumciſed Lyons, will teare Us to pieces, and make Banners of our Catholicke Skinnes, and ſcratch your Myter, (whoſe ſhaddow was reverenced by Princes of the Earth) to ve<g ref="char:EOLhyphen"/>ry contemptible and forgotten Atomes, and powder your Supreame ſelfe in <hi>Luthers</hi> Bar<g ref="char:EOLhyphen"/>rell: They will Sacke Your Citie, the Queene of the Earth, treade upon the Worlds Trophees, and fill the Holieſt place with Abho<g ref="char:EOLhyphen"/>mination of deſolation.</p>
+            <p>Where ever wee ſend foorth our enqui<g ref="char:EOLhyphen"/>ring Eyes, they report nothing from all the corners of the World, but ſad entertaine<g ref="char:EOLhyphen"/>ments of theſe feares, and appearances of muta<g ref="char:EOLhyphen"/>tions from that Kingdom of <hi>Scotland,</hi> (which is now moſt deſperately diſeaſed of a ſwelling Tympanie or ſome Plureſie, incurable but by the
+<pb facs="tcp:62470:20"/> voyding of that prevayling bloud which over-rules or offends the Head, and choakes the Heart,) As the ſource of our reproach, the fountaine of our ſhame, doe wee deryve, the ſtreames of our injuries and calamities, and and to thoſe all deſpiſed Hereticks like wayes do we juſtly impute the advancements of the ſame. Your Holines ever ſollicit to gain that which is loſt, had emitted your faithfull labourers, &amp; plan<g ref="char:EOLhyphen"/>ted a Vine,<note place="margin">The Service booke, which produced moſt ſoveraign, and generos grapes</note> which for the time was very luxuriant, and did proudly ſpring like <hi>Ionas</hi> Gourd, but alas, that unexpected poyſonable worme of the Covenant, hath encroached upon the Heart there<g ref="char:EOLhyphen"/>of, and vowed to ſuck out the very ſoule of it.</p>
+            <q>Eheu quam levibus pereunt ingentia cauſis!</q>
+            <p>Nay, this worme is like to bee metamorphoſed in a flying Dragon, and infeſt the whole Chriſtian world. Your Holineſſe did mercifully elance a ſa<g ref="char:EOLhyphen"/>ving Beame upon that Cimmerian Land; which was kindly welcommed by thoſe who had ſub<g ref="char:EOLhyphen"/>mitted themſelves to bee doctrinate by our fomenting ſuggeſtions,<note place="margin">Their Eyes were anointed with omnipo<g ref="char:EOLhyphen"/>tent Baulme.</note> and it did moſt ef<g ref="char:EOLhyphen"/>fectually animate them to great performances, Wee were made hopefull to ſee the day break foorth gloriouſly, for the Cockes fell a crowing, which told us the nights de<g ref="char:EOLhyphen"/>parture,<note place="margin">Light is ſowen for the righte<g ref="char:EOLhyphen"/>ous.</note> yet have they maliciouſly cloſed their Eyes, rejected the lights comfort, and moſt bit<g ref="char:EOLhyphen"/>terly baniſhed thoſe faithfull Evangeliſts, nay
+<pb facs="tcp:62470:20"/> with a more perfect hatred and meritorious vio<g ref="char:EOLhyphen"/>lence than ever <hi>Loyala's</hi> Tribe was turned out from among the ſtraight-lac't Venetians; And now they thinke (reprobate ſoules) that they have reproachfully mounted them as it were on the Aſſes of Jndignitie, and ſend them to the land of <hi>Nod</hi> with an <hi>Ecco la fico,</hi> Yet nothing ſo, but the pale Horſe of a Civill, and Temporall death at worſt; upon which, Triumphing Martyrs, they have entred Paradiſe, and neceſ<g ref="char:EOLhyphen"/>ſary it was, bleſſed Father, that they ſhould bee removed from the Contagions, and converſati<g ref="char:EOLhyphen"/>on of the wicked, that when the deſerved de<g ref="char:EOLhyphen"/>vaſtations and devourings ſhal break forth in the fulnes of their rage, they might laugh at their per<g ref="char:EOLhyphen"/>ſecutors in the day of their deſtruction: Thus was the good <hi>Joſias</hi> called to his eternall home be<g ref="char:EOLhyphen"/>fore Babilons captivitie, And the moſt Catho<g ref="char:EOLhyphen"/>licke Biſhop S. <hi>Auguſtines</hi> death, like a gen<g ref="char:EOLhyphen"/>tle ſtarres fall, did fore run and point out the ſubverſion of the city of <hi>Bone.</hi> Thoſe are the ram<g ref="char:EOLhyphen"/>pards of the Church, which muſt be taken down, that the Inundation of deſolation may burſt in &amp; ſwallow the Trophees of inſulting Hereſie. For even as the ſagacious Swallow, doth retire her young ones, before the approaching fall of the craſie Vault: ſo are the bleſſed ſouls, Hea<g ref="char:EOLhyphen"/>vens Mignons promiſcuouſly confounded with the tumultuous Heretickes, ſingled by, and
+<pb facs="tcp:62470:21"/> lift above the reach of danger, before the pub<g ref="char:EOLhyphen"/>licke ruines. All theſe impieties and Oppreſſions have no more harmed, the<g ref="char:cmbAbbrStroke">̄</g> if a man out of his fury and anger would thinke to afflict and drowne the harmeleſſe captived fiſh by throwing it in a ri<g ref="char:EOLhyphen"/>ver; For wee are bold to perſwade in the cou<g ref="char:EOLhyphen"/>rage of victorious ſpirituall Souldiers, that all theſe ſentences, Excommunications, Extruſi<g ref="char:EOLhyphen"/>ons and other furies, whereby ſacrilegious Blaſphemie hath exerced the height of Tyrannie againſt Trueths Heraulds, ſhall prove in end like <hi>Sampſons</hi> Lyon, Out of the ſtrong ſhall come ſweet, Their Righteouſneſſe ſhall ſpreade as the morning, and their Glory ſhall be terrible as an Armie with Banners: though they now ſleepe, yet it is not to the death. Indeed fortune for all this, hath dealt Vs a very bad Game at this Tour, but yet a little, and the Cards ſhall bee ſhiffled; they have refuſed our ſaving &amp; Catholick curteſies, and kickt againe, they have affrigh<g ref="char:EOLhyphen"/>ted Us with Lightnings; But may bee, wee ſhall cruſh thoſe Terreſtriall Heads with Thunder and blow away their Deſignes as chaffe before the winde; And though the Lutherans and our Adverſaries doe fatten themſelves with their Inſultings over Us, and thinke we have ſo deep<g ref="char:EOLhyphen"/>ly taſted the bitterneſſe of that laſt Overthrow, which our Catholick friends,<note place="margin">The Spaniards and Italians</note> your Holines nim<g ref="char:EOLhyphen"/>ble Executioners, &amp; thoſe like wayes of your Holi<g ref="char:EOLhyphen"/>nes owne Familie did latelie ſuffer by Sea, in ad<g ref="char:EOLhyphen"/>vancing
+<pb facs="tcp:62470:21"/> your Evangelical Intentions; and though they ſtick not to flater their abuſed ſouls, with this confidence, that now there are no more <hi>Co<g ref="char:cmbAbbrStroke">̄</g>ſta<g ref="char:cmbAbbrStroke">̄</g>tines</hi> to be found who dare hold up the banner of the Croſſe, nor any to march under the ſame, yet muſt we be eſpouſed to new reſolutio<g ref="char:cmbAbbrStroke">̄</g>s of recovery, and let the triumphing ſnakes duly find that our Arms are not ſhortned, our wings are not clipt, &amp; that neither are the Kingdoms ſubjected to our two all commanding ſwords, exhauſt of the true faiths de<g ref="char:EOLhyphen"/>fenders, Nor <hi>India,</hi> &amp; <hi>Peru</hi> yet pompt of Red and white Earth; which ſhall produce Vs Children to maintain Truths Garland, even in the midſt of our Enemies, for our Chymiſts are excellent Operators, and can ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ract the Soveraign Baulm, and very effectually apply it to the ſuſpect places, which being cunningly adhibite with the concur<g ref="char:EOLhyphen"/>rence of your Apoſtolick Benedictions &amp; Encou<g ref="char:EOLhyphen"/>ragements, wee have ſeene have ſuch a powerfull Operation, that it hath never ceaſed till awaking an Inteſtine diſcord, at length it hath caſt out al redundant and noxious humours, and expelled the root of the diſeaſe. And as to that little ſniffle which our Apoſtolicke Navy hath received, partly by the Indiſcretion of the Sea, and un<g ref="char:EOLhyphen"/>curteſie of the Windes, (for amongſt theſe Hugenotes, the very aire and water are Puritans) and partly by the neglect and conni<g ref="char:EOLhyphen"/>vance of Princes; Be it knowne wee have alrea<g ref="char:EOLhyphen"/>dy digeſt that little tickling Pill of miſfortune, as
+<pb facs="tcp:62470:22"/> clearely as wee have eclipſed the memorie of the Creſcent in the 88.<note place="margin">The Armado which came diſplayed in forme of the Moone Creſ<g ref="char:EOLhyphen"/>cent.</note>
+            </p>
+            <p>But here we ſpare to ſtretch our ſelves on theſe regrates, your Epiſcopall providence wil ſmel the ſtorme afarre, looke to the prevailing thereof, and find out the moſt powerfull meanes to elude the dangers of theſe tumbling times, that the afflicted Church, as the Lilly among Thornes, may looke ſweet and glorious as the Moone in her full pride: Yet by the preſumptions of Times, one thing ſeemes to bee ſure, If wee might ſee Fates booke, The Senate houſe of Planets hath at no time beene more unfriendly ſet for the acting of ſome ſtrange Trage-comedie in <hi>Europe.</hi>
+            </p>
+            <p>Which makes Vs call to minde the pernici<g ref="char:EOLhyphen"/>ous propheſies of thoſe Vnchriſtian Dames, thoſe <hi>Sybilles,</hi> who like phanatick <hi>Syrenes,</hi> have intoxicate the world, and ſo ſtrongly poſſeſt the ſoules of thoſe who are converſant with curio<g ref="char:EOLhyphen"/>ſity, that many good Catholickes, and of high endowments, poyſoned with their Greek Muſick, doe entertaine ſecret opinions and fears of a very fatall period, ordained for our ſpirituall Kingdome; for in thoſe their profane Invectives, and hell-blowne Satyrs, wherewith they have perſecuted your Holineſſe Throne (as the ſpirit of deluſion doth cheate the worlds beliefe) and your Seate, this Citie likewayes, (which looks like the Moone amongſt the leſſer Starres) though
+<pb facs="tcp:62470:22"/> ſhee bee ſtellified to Heaven, yet thoſe unpure Spirits, with their uſurping uncatholicall pens,<note place="margin">In the ſecond book of the O<g ref="char:EOLunhyphen"/>racles of <hi>Sybil<g ref="char:EOLhyphen"/>la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> at this part — <hi>hominum tu<g ref="char:cmbAbbrStroke">̄</g> denique ſeclum, Exiſtet deci<g ref="char:EOLhyphen"/>mum.</hi>
+               </note> have preſumed to lay her horne in the duſt; And they have preſented the Map of after-times (to thoſe who will Idolize their Oracles) ſo farre to the diſadvantage and ſhame of your Holines high Calling, that all the reſplendant Rayes of our dazeling pomp, wherewith wee have obfuſcat, even at a great diſtance, the reſt of Nations, muſt bee drowned for ſooth in the ſmoake of an utter ruine and endleſſe confuſion, Your Holines pur<g ref="char:EOLhyphen"/>ple, and our ſcarlet roabes wherewith wee dark<g ref="char:EOLhyphen"/>ned the Eyes of beholders, and enamoured the admiring ſtranger, by a profane and poeticall fury they have turned over our heads, and reioyce to have our nakedneſſe diſplayd to the world. Surely a ſtrange Enthuſiaſme in theſe Feminine Braines; yet theſe Times may fortune to renew the Idea's which thoſe Chimerick Impreſſions have given to the more facile ſoules, who are ea<g ref="char:EOLhyphen"/>ſily carried about with every winde of beliefe; for now there is a great unconſtancie and certayne kinde of Branktings in many parts, even amongſt the ſons of your Inſtitutions, Heires of your unmeaſured Deſignes, expectants of the Bleſſed Chaire,<note place="margin">Spirituall and Temporall Counſellours.</note> and thoſe on whom <hi>Ignatius</hi> &amp; <hi>Mat<g ref="char:EOLhyphen"/>chiavell,</hi> the two Genius of the Myter, had pow<g ref="char:EOLhyphen"/>red a double meaſure of their ſpirits.</p>
+            <p>Every alteration in States, even to the bet<g ref="char:EOLhyphen"/>ter,
+<pb facs="tcp:62470:23"/> your Holines knowes, is dangerous: And whether the newes of this great Change, of a patriarch to bee ſet up in <hi>France,</hi> have arrived at your Holines Ghoſtly Eares, or not, wee are ignorant: You may deſcend to view what face the purpoſe hath, and try the pedigree from whom it came, and whither it goes. Out of the profundity of your infallible Iudgement, your Holines can obviat the impertinencie of any Event, and devance the conſequence of this ſpringing. You beſt know, what conduceth both to the Glory, Grouth, and Indemnitie of the Church, and for the Honour and Majeſtie of your owne Throne: But truely, Wee the Fa<g ref="char:EOLhyphen"/>thers of the Conclave, doe thinke it to bee a ve<g ref="char:EOLhyphen"/>ry ſtrange Boutade, and a labouring deſigne preg<g ref="char:EOLhyphen"/>nant with many monſtrous productions; And that his vehement and Polypragmaticke ſpirit, through the inſolencie and indulgence of a ſwel<g ref="char:EOLhyphen"/>ling fortune, cannot reſt, but making eruption beyond the limits of his Vocation, with an in<g ref="char:EOLhyphen"/>ordinate appetite of Glory, ſhall aſpire to the top of the Pyramide. Such exorbitant humours are moſt apt to confound the order of Geome<g ref="char:EOLhyphen"/>trick proportion, and beeing voyde of a Poli<g ref="char:EOLhyphen"/>tique Manſuetude, indocile or blinde Obedi<g ref="char:EOLhyphen"/>ence, Lovers of Mutations, are moſt fertile of Emulations, and Civill Warres, and often<g ref="char:EOLhyphen"/>times involve all in a dolefull conflagration. This
+<pb facs="tcp:62470:23"/> (as many other Emergencies of theſe Times) ſeemes to bee the beginning of a deviation, which cannot end but in Apoſtaſie, eſpecially among that Nation, which doth ever pleaſe it ſelfe in changes: Could not (Holie Father all the Crownes in <hi>France</hi> ſerve, to ſtay his vaſt ambi<g ref="char:EOLhyphen"/>tion, unleſſe he had ſomething above his Car<g ref="char:EOLhyphen"/>dinalls Coronet likewayes? Preſſe into the in<g ref="char:EOLhyphen"/>ner Cabinet of theſe Deſignes, there your Ho<g ref="char:EOLhyphen"/>lines may well finde, which cannot bee conſiſtent with your Myter.</p>
+            <p>For though your Holines hath now obſcured the brightneſſe of the Patriarches of the Eaſt, and hath erected your Apoſtolick Creſt to that unpar<g ref="char:EOLhyphen"/>rallelld height of Preeminencie, from whence you doe ſtately overlooke them, and all other Churches, even as the Mountaines of <hi>Ararat,</hi> whereupon the Arke reſted, lifted up their wel<g ref="char:EOLhyphen"/>come, and triumphing tops, above the decreaſing waters, yet the appearing of this Patriarch, as of a new unknown Starre, may beget a deſire in the Laicks, to ſtudy the motion of our Heavens too officiouſly, and ſo run the hazard of revolting He<g ref="char:EOLhyphen"/>reſies, in their Supererogatory contemplatio<g ref="char:cmbAbbrStroke">̄</g>s. For your Holines cannot forget to remember, that howbeit by the Florentine and Laterane Coun<g ref="char:EOLhyphen"/>cells it was unanimouſly and Canonically con<g ref="char:EOLhyphen"/>cluded, that the foure Patriarches of <hi>Conſtan<g ref="char:EOLhyphen"/>tinople, Antiochia, Alexandria,</hi> and <hi>Ieruſa<g ref="char:EOLhyphen"/>lem</hi>
+               <pb facs="tcp:62470:24"/> ſhould receive their mantle, the ſigne of plenitude of their pontificall dignitie, from your Holy hands, and after the order of the aſſigned precedencie, tender the Oath of allegiance to the Romane Prelate, at whoſe appearance in his ful<g ref="char:EOLhyphen"/>leſt Grace, they muſt put up their beames and diſappeare; yet they have alwayes had Pro<g ref="char:EOLhyphen"/>teſtations of reluctancie, and rebound to the title of their patriarchall Dignitie, holding themſelves iſo-Preſbyters, compoſed of that ſame ſtuffe whereof Popes are ſaid to bee made, and can hardly bee induced to humble themſelves to the dependance of a derivation, or reſtray<g ref="char:EOLhyphen"/>ned from tranſcending the Category of ſub<g ref="char:EOLhyphen"/>ordination: Nay certainely, it doth reliſh too much of an exemption from the Romane Sea and ſtudie of Monarchie: Wee ſhould not have wondred ſo profuſely to have ſeene ſuch Hierarchicall Ambition, point out his preſump<g ref="char:EOLhyphen"/>tuous head, in the remoter parts of <hi>Brittain,</hi> and <hi>Ireland,</hi> beeing ſo farre diſtant from the Influence of your pacificke Scepter, (the ad<g ref="char:EOLhyphen"/>vancements being there but very greene as yet) not attained their flouriſhing luſtre. For even as the Windes and Raines doe exerce a mu<g ref="char:EOLhyphen"/>tuall rage, ſhooting foorth their luxuries in the lower parts of the Ayre, where they raigne in their turbulent Kingdome, but in the high<g ref="char:EOLhyphen"/>er Regions thereof, nigh to the Fires Orbe,
+<pb facs="tcp:62470:24"/> and approaching the Sunne, no motion, no agitation, but a gentle calme doth continual<g ref="char:EOLhyphen"/>ly dwell: So certainely in thoſe forgotten and barbarous places, not apt for the ſpirit of O<g ref="char:EOLhyphen"/>bedience, the true Author of peace; No won<g ref="char:EOLhyphen"/>der there bee commotion and ſcandals: but in <hi>France</hi> the very Myters Eye to build Altars of offence, it may beget a ſtorme, which will force Vs pull downe our Sailes, If wee eſcape ſhipwracke: And if the Pagan Souldiers, made ſcruple to uſe Chriſts Reverend Roabe ſo rude<g ref="char:EOLhyphen"/>ly, as to teare the ſame; how deſervedly ought they to bee redargued, who prepare the renting of his ſacred Bodie, the Church, with their am<g ref="char:EOLhyphen"/>bitiouſly ſwelled zeale?</p>
+            <p>The crying neceſſities of theſe Times which looke too ſullen, and the Exigencies of the affronted Church, if there bee pitty amongſt Vs, and Holy zeale to vindicate her credite, would wring from us poyſon to kill all the policies of <hi>Europe.</hi> Yet (Holie Father) though the pow<g ref="char:EOLhyphen"/>ers of Hereſie ſhould combine and concentrate their malice, though the frame of the Vniverſe ſhould be disjointed, we have a never-failing pro<g ref="char:EOLhyphen"/>miſe, that the gates of Hell ſhall not prevaile a<g ref="char:EOLhyphen"/>gainſt us. Heavens g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat Subſtitute, Abſolute Fa<g ref="char:EOLhyphen"/>ther of the Church, if ever power did ſhew a Ma<g ref="char:EOLhyphen"/>ſterie in you, let it now appeare, and make the re<g ref="char:EOLhyphen"/>dacted World ſtand amazed.</p>
+            <q>
+               <pb facs="tcp:62470:25"/>
+               <l>O nimium dilecte Deo cui militat aether,</l>
+               <l>Et conjuratae curvato poplite gentes</l>
+               <l>Succumbunt —</l>
+               <l>Tu ne cede malis, ſed contra audentior ito.</l>
+            </q>
+            <p>There's Elixar of braine and ſpirit amongſt Us, and the God of riches lies impriſoned in our Ca<g ref="char:EOLhyphen"/>bines and Monaſteries.<note place="margin">Eccleaſiſt aevo<g ref="char:EOLhyphen"/>lunt eſſe Mo<g ref="char:EOLhyphen"/>narchae.</note> Let Us doe any thing to rule alone, though it bee very rare to ſee the World ruled by one: The moſt proud and obſti<g ref="char:EOLhyphen"/>nate Reſiſtances are aloft, and now a dayes wo<g ref="char:EOLhyphen"/>mens ſoft ſoules are wrought up to a maſculine malice and reſolution; for perſecuting Truth, and hugging Error: Therefore make your wrath likewiſe to ſwell. Extend your mighty Armes, call up the Princes of the earth, let the ſounds of your Alarum be heard from one end of heaven to the other, and ſtraight behold the Kings and po<g ref="char:EOLhyphen"/>tentates, like children of obedience ſhall forſake their palaces, out of a filiall ſubmiſſion; and leave their ſtately Magnificence to bee poſſeſt of ſoli<g ref="char:EOLhyphen"/>tude, inhabited by Bats and Owles, and entruſt their deareſt Queenes to the benevolence of Church-men, and Eunuches; Then will they muſter their forces, employ their Scepters, and ſtraine all the Nerves of their Kingdome for the well of the Cauſe Catholicke.</p>
+            <p>Let it alwayes be the chiefeſt of our cares, the
+<pb facs="tcp:62470:25"/> firſt of our deſires, to hold up warre immortall, ever to trouble the calme of peace,<note place="margin">Flectere fine<g ref="char:EOLhyphen"/>quecunt ſuperos Acheronta m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vebunt.</note> to ſhut up the Seas, to diſable, to diſ-joyne, to inſpire our E<g ref="char:EOLhyphen"/>miſſaries, and Incendiaries, with the ſpirits of diſ<g ref="char:EOLhyphen"/>ſimulation and diviſion, to infold all State policies in confuſion, to choake all, to inflame all with a moſt Catholike combuſtion; for certainly ſome cruelties are better and more neceſſary, than ſilly improfitable Mildneſſe, which like a cold and barren quality, can never mature the Churches growth. No, no, the braying of Canons, the daw<g ref="char:EOLhyphen"/>bing of Drums are good Catholike Muſicke, by which our Apoſtolick expeditions uſe to advance the Spirituall kingdome, and goe in proceſſion through the world; Our motions muſt be reſtleſſe &amp; buſie, like that of the heavens, every one beſtir<g ref="char:EOLhyphen"/>ring himſelfe in his owne ſpheare. And your Ho<g ref="char:EOLhyphen"/>lineſſe with moſt grave, and venerable alacritie, will give the ſtrong impulſe. Wee in the Conſi<g ref="char:EOLhyphen"/>ſtorie, and thoſe miniſtring and ſubtle ſpirits of that rich ſeed-plot of <hi>Sorbone,</hi> ſhall come ſuch riddles, and ſhall ſo inveagle the Heretick ſoules and Churches, that Kings ſhall find themſelves e<g ref="char:EOLhyphen"/>nough puzled. From this holy Citadell, this im<g ref="char:EOLhyphen"/>pregnable Capit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, our ſpirituall Engineeres, who are moſt Canonically bred, and authentical<g ref="char:EOLhyphen"/>ly practiſed, ſhall throw ſuch fierie Bals among Nations and People,<note place="margin">From the Conclave.</note> as thoſe that dare op<g ref="char:EOLhyphen"/>pone Truths Candor, ſhall bee put in a terrible damp.</p>
+            <pb facs="tcp:62470:26"/>
+            <p>Go to (holy Father) move ſtrongly, as becomes the ſtate of your courage, and in a high ſweld Metropolitan confidence, blow downe the ſtrong holds of Errour; Remove the Iſles out of the ſea, and ſhake the mountaines that ſtand up ſo hereti<g ref="char:EOLhyphen"/>cally againſt the promiſed, the propheſied Refor<g ref="char:EOLhyphen"/>mations to the faith <hi>Catholike;</hi> Never unbend your infallible Bow, till you have hit the conque<g ref="char:EOLhyphen"/>red marke of your moſt <hi>Euangelick</hi> Intentions, our adverſaries muſt not erect the Trophees of their ambition upon the ruines of our reproaches. Wee will firſt fetch the compaſſe of the <hi>World,</hi> and <hi>conglomerate</hi> our undaunted forces, like a deſtroying and inexorable tempeſt, to ſweep a<g ref="char:EOLhyphen"/>way Truths Enemies. All our Convents ſhall firſt be turned into Fence-ſchooles, before the Great Cauſe be diſgraced. We will defend mainly, en<g ref="char:EOLhyphen"/>gage our very <hi>Crucifixes,</hi> and Hypothecat our <hi>Cardinals Caps</hi> before the <hi>Mitres</hi> honour be any whit touched.</p>
+            <p>But now becauſe many Incumbencies advertiſe us to diſſolve, and ſome ſtrange Embaſſadors attend your Holineſſe from whoſe boſome they come to receive <hi>Apoſtolick</hi> directions, to lead them as a Starre in the way to the hill of Greatnes, where the <hi>Laurells</hi> of triumph doe condignly at<g ref="char:EOLhyphen"/>tend them: Wee forbeare to preſume on this Times importance, onely daring repreſent to your Holineſſe, how neceſſary it is to imploy
+<pb facs="tcp:62470:26"/> pens, policies, and power, to rack all our might for advancing our holy intentions, and breaking the clouds of Errour and Hereſie, which are like to over-ſpread the whole World: Conſider how the crying neceſſities of our bleeding Primitive Mother doe implore the ſame: In the mean time (till your Holineſſe have more precious leiſure to beſtow upon further Catholike Reſolutions) let let there bee a grand Apoſtolick <hi>Nuncio</hi> diſpatch<g ref="char:EOLhyphen"/>ed upon the wings of ſpeed to the Iſle of <hi>Britain,</hi> (if there bee any courteſie to receive him there worthily) Even ſtrongly aſſiſted with the ſpirit of Truth, which your Holineſſe Predeceſſors did uſually ſend to the Tridentine Councell for the actuating of thoſe infallible members, and extir<g ref="char:EOLhyphen"/>ping of Hereſie. Inſtruct him deeply how to proclaime to the world,<note place="margin">VVell blown Seignior.</note> and write it on the skie with Letters of gold never to be forgotten, and print it in the Records of Hiſtories to all after a<g ref="char:EOLhyphen"/>ges, that though Religion bee the common pre<g ref="char:EOLhyphen"/>tence of diſcontent amongſt theſe untamed Here<g ref="char:EOLhyphen"/>ticks, wherewith they uſe to maske their unbrid<g ref="char:EOLhyphen"/>led licence, their affronted boldneſſe, their high contempt of Soveraigntie, and dare commit any Impiety, guilded with the luſtre of Sanctity: Yet nothing is ſo ſtrongly deſired, nothing ſo truely intended by them, abhorring the order of ſubje<g ref="char:EOLhyphen"/>ction, than to ſhake off the yoke of Monarchie, &amp; breake the Cords of Spirituall and Temporall ju<g ref="char:EOLhyphen"/>riſdiction,
+<pb facs="tcp:62470:27"/> with the ſwing of their deſperate frenzie.</p>
+            <p>It will not bee inexpedient likewiſe to cauſe ſome others; who are enriched with the ſtrength of more ſubtle abilities, and doe cunningly know how to creep into the mindes and Cabines of prin<g ref="char:EOLhyphen"/>ces, and take dominion there, be ſent forth with all convenience, for ſubverting the Machinati<g ref="char:EOLhyphen"/>ons of theſe Matchiavilian Calviniſts: Let Au<g ref="char:EOLhyphen"/>thority, Lords of Power, and Maſters of Time be taught (for Clemencie is the Nurſe of Rebel<g ref="char:EOLhyphen"/>lion) how to preſſe them downe with weight, though the conſpiring Crew that breaths nothing but fire, and vomits blaſphemie, who hath conſe<g ref="char:EOLhyphen"/>crate their Eſtates, and eſpouſed their neglected lives to the luſt of Revolting, ſhould crie out vio<g ref="char:EOLhyphen"/>lence, and rigour, and crueltie, and tyrannie, and craft, and malice; for thoſe things have been the Soveraigne and effectuall wayes of our enlargings, and it is the Myſterie of greatneſſe to hold the In<g ref="char:EOLhyphen"/>feriors ſtill ignorant of it, and ſtrike like Light<g ref="char:EOLhyphen"/>ning and Thunder.</p>
+            <p>Moreover, Becauſe the ſeditious furie of un<g ref="char:EOLhyphen"/>ruly multitude (even as a tumbling flood acqui<g ref="char:EOLhyphen"/>ring ſtrength to it ſelfe by moving, carryes all it meets before it in a precipice) doth waxe to ſuch a prevailing ſtrength as none can hold out a<g ref="char:EOLhyphen"/>gainſt the bitterneſſe of the tempeſt: Therefore let us worke wiſely, and as men uſe to diſappoynt
+<pb facs="tcp:62470:27"/> the over-flowings of undaunted Rivers, by bran<g ref="char:EOLhyphen"/>ching them in little weake Rivulets, thus to ex<g ref="char:EOLhyphen"/>tenuate the impetuoſitie of the maine ſtreame, by diverting the fulneſſe of indocile waters, and turning them aſide. So muſt wee (in a degree more than becomes Supremacie to ſtoope) flatter a while, and nouriſh the hopes, and entertaine the deſires of Conſpirers, diſtract the mindes of the multitude, weaken them by the breach of Union, and delude them moſt egregiouſly; for ſo long as thoſe Conventions rule, whereby the conſent of the abuſed People receives moſt poiſo<g ref="char:EOLhyphen"/>ſonable Aliment, and they become fortified in their Errour, than each provokes another, even as the Billowes of the inraged Sea are driven for<g ref="char:EOLhyphen"/>ward by their urging and importune fellowes.</p>
+            <p>Therefore muſt it bee amongſt the firſt of the Articles of your Atourneyes Inſtructions, excee<g ref="char:EOLhyphen"/>dingly to labour this point, that thoſe their great Councells, infallible Aſſemblies,<note place="margin">Well remem<g ref="char:EOLunhyphen"/>bred.</note> and unwar<g ref="char:EOLhyphen"/>ranted Synagogues of Hypocrites, bee moſt di<g ref="char:EOLhyphen"/>vinely impeded; and that Parliaments bee broke up, and cruſhed in the bud both in Scotland, and England for thoſe confluences of demure divells, have ever given Vs the greateſt daſh, and beene the very bane of our agonies.</p>
+            <p>Wee hope withall, your Holines out of the bowels of pittie, cannot forget the miſerable pre<g ref="char:EOLhyphen"/>lates, your faithfull Labourers. It is indeed
+<pb facs="tcp:62470:28"/> their fortune; (through too eager and unadviſed zeale, to the glory of raiſing Altars to your Ho<g ref="char:EOLhyphen"/>lines purpoſes, in that land where they lived) and not their fault, that thus they are left in the wilderneſſe of Times and Povertie, make them taſte therfore of the ſweetnes of your Remem<g ref="char:EOLhyphen"/>brances; for it were high indignitie to your Ho<g ref="char:EOLhyphen"/>lineſſe, the Prince of Biſhops, to let thoſe ſilly Soules engage their Surplis, and Service-books, for the maintenance of their laborious lives.</p>
+            <p>Amongſt all other expediencies, here is one likewayes which cries extreamely, that ſince we had very juſtly anchored our beſt Expectations upon the Northerne Cities of that rigid and in<g ref="char:EOLhyphen"/>fortunate Iland of Scotland, where indeede the Religion pretended was never perfectly welcom<g ref="char:EOLhyphen"/>med, and that by our laſt intelligence wee have learned they have likewiſe joyned hand with Im<g ref="char:EOLhyphen"/>pietie,<note place="margin">The City of <hi>Aberdene</hi> ho<g ref="char:EOLhyphen"/>noured by em<g ref="char:EOLhyphen"/>bracing the Covenant.</note> and divorcing themſelves from the loy<g ref="char:EOLhyphen"/>altie of the great worke, have entred the dance with the reſt of the giddy Hereticks, neglecting our reſentments of moſt Catholick Services done, and our encouragements to perſevere, that yet notwithſtanding there might be ſome zealous In<g ref="char:EOLhyphen"/>vention and ſpirituall ſtratagem found how to re<g ref="char:EOLhyphen"/>gaine them, and to redeeme them from that de<g ref="char:EOLhyphen"/>ſerved perdition which followes Hereſie.</p>
+            <p>
+               <note place="margin">The Lords of the parlament</note>And as to the Parliamentary ſtage-men, who do now perſonat ſo bravely, we hope before they
+<pb facs="tcp:62470:28"/> come to the laſt Act of the Play, where they truſt to bring in your Holineſſe as a Mytred Boufone, if there be any ſoule amongſt us, we ſhal do our beſt to make their dalliance Epilogue in a Tragedy, and overturn the Stage upon the Actors.</p>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>THus ſpake the Monſtrous Beaſt, whoſe voice is thunder,</l>
+               <l>Whoſe Poyſon's Myſterie, whoſe wayes are Wonder:</l>
+               <l>Thus <hi>Babels</hi> Stateſ-men, and the purple traine</l>
+               <l>Did blow their fierie zeale, and did complaine,</l>
+               <l>Giving their Lawes to times and deſtinies,</l>
+               <l>Subjecting Heav'ns will to their policies:</l>
+               <l>But He that dwells betwixt the Cherubins,</l>
+               <l>Doth looke, and laugh, and mock their hid deſignes:</l>
+               <l>Deare <hi>Iſraels</hi> watch-man, and the King of Kings,</l>
+               <l>From whoſe fierce mouth an angry ſmiter ſprings,</l>
+               <l>Shall incontrolled come inflaming Ire,</l>
+               <l>Arm'd with juſt plagues, and powring floods of fire:</l>
+               <l>He knowes his Church is torn, He ſees her woe,</l>
+               <l>He knowes her griefes are full, Her teares ore-flow:</l>
+               <l>Her renting cries have wound great <hi>Judah's</hi> Lion,</l>
+               <l>Her heavie moanes have mov'd the Lamb of Sion:</l>
+               <l>Great treaſures of revenge he hath in ſtore,</l>
+               <l>To waſte upon his foes, who 'las ſo ſore</l>
+               <l>Have bruis'd Her with a cruell Iron rod,</l>
+               <l>And thruſt Her thorow, and on Her glorie trod.</l>
+               <l>
+                  <hi>Vengeance</hi> deſcends from Heav'n, ſhe doth diſplay</l>
+               <l>Her angrie furie; No, ſhe cannot ſtay,</l>
+               <pb facs="tcp:62470:29"/>
+               <l>Sh'hath brimm'd her Vialls full of bittereſt wrath,</l>
+               <l>That e're annoy'd the afflicted earth:</l>
+               <l>Loe Iuſtice bowes the heav'ns, and ſweetly daignes</l>
+               <l>T'eſpouſe her cauſe, and heare what ſhe complaines,</l>
+               <l>That Incenſe ſmoake, which from the Saints d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th riſe</l>
+               <l>Hath mounted up, and entred through the skies.</l>
+               <l>And now the painted Monſter who did ride</l>
+               <l>Vpon the Temples Pinacle, and guid</l>
+               <l>Abus'd Republicks Reines, ſhe before whom</l>
+               <l>The people of the earth did gladly come</l>
+               <l>Proſtrate to pay their Worſhip, muſt be thrown</l>
+               <l>Into the Sea, great ſhe muſt be caſt down</l>
+               <l>From that reſplendent Thrones inſulting glorie,</l>
+               <l>Which was the pride of times, and the worlds ſtorie.</l>
+               <l>Shee's drunke with laughter, and did tyrannize</l>
+               <l>O're all the parts where <hi>Phoebus</hi> caſts his Rayes.</l>
+               <l>But now the fatall period comes, and thoſe</l>
+               <l>Who <hi>by the living Gods ſeale</hi> doe rejoyce:</l>
+               <l>(The <hi>Glorious Cov'nant,</hi> which diſtills a ſhowre</l>
+               <l>Of valiant Champions, girt with Heavenly pow'r)</l>
+               <l>The ſons of wonder, loe they come, they come</l>
+               <l>With threatning Banners to the walls of <hi>Rome;</hi>
+               </l>
+               <l>With Crownes upon their heads, Palmes in their hands,</l>
+               <l>They'll ſhake the ſeven hills where proud <hi>Babel</hi> ſtands.</l>
+               <l>Tremble, O tremble, Queane of Nations, now</l>
+               <l>Thy walls, which did diſdaine to ſtoope, and bow,</l>
+               <l>Muſt humbled be at Gods great Covenants call,</l>
+               <l>Thy Crowne is with'red, now thy Garlands fall:</l>
+               <l>Thy ſtately towres which did inſulting riſe</l>
+               <l>To over-looke the earth, and threat the skies,</l>
+               <pb facs="tcp:62470:29"/>
+               <l>Doe quake and hide their palſie heads for feare,</l>
+               <l>When this triumphing ſplendor doth appeare,</l>
+               <l>As thou haſt made all Nations to be drunk</l>
+               <l>With thy debauches, ſo thou ſhalt be ſunk.</l>
+               <l>Vpon the wings of ſpeed thy ruine flies,</l>
+               <l>Ripe are thy woes, readie thy miſeries:</l>
+               <l>Thou'lt bid the Alps and Apennines fall on thee,</l>
+               <l>And keepe thee from the hills that ruſh upon thee.</l>
+               <l>All thy inveagling Rayes, like clouds of errour,</l>
+               <l>Shall drowned be with lightnings and with terrour</l>
+               <l>Of that prevailing Beauty; whoſe ſun-like face</l>
+               <l>Doth all the world inflame, and ſweetly chace</l>
+               <l>Diſloyall thoughts, this warmes,<note place="margin">The car<g ref="char:EOLhyphen"/>dinals &amp; the Ro<g ref="char:EOLhyphen"/>man cler<g ref="char:EOLhyphen"/>gie.</note> and doth allure</l>
+               <l>Our chaſte deſires unto a love more pure.</l>
+               <l>Ah cruell Counſellours and inhumane,</l>
+               <l>Ye paint the Clouds, yee doe combine in vaine,</l>
+               <l>Yee blow but at the Sun, while yee preſume</l>
+               <l>In vaine to vexe the truth, your ſoules conſume.</l>
+               <l>O ſpare th'afflicted Lilie, O forbeare</l>
+               <l>Your cruell pungent thornes, which doe the faire</l>
+               <l>And Heav'n-blowne flower of <hi>Jeſſe</hi> wound: No pittie</l>
+               <l>Vpon the harmleſſe Dove, ſo ſweet, ſo pretie?</l>
+               <l>Great He that holds the Times, and the Worlds end,</l>
+               <l>Doth heare your Blaſphemies, He'll'gainſt you bend</l>
+               <l>The angrie arrowes of his Indignation,</l>
+               <l>And recompence your high abhomination.</l>
+               <l>Your Rabbies, Sophies, Matchivilian Crew</l>
+               <l>Forſake your Counſells: What thinke yee to doe?</l>
+               <l>Would yee confound the Heav'ns, and people hell,</l>
+               <l>Drowne the poore world in bloud, and trouble all?</l>
+               <pb facs="tcp:62470:30"/>
+               <l>Muſt yee like Tennis-balls thus canvaſſe Crownes,</l>
+               <l>Muſt Scepters ſtoop t'uſurping Myters frownes?</l>
+               <l>Shall flour'ſhing Kingdomes, ſhall proud Monarchies</l>
+               <l>Be th'humble foot-ſtoole of your Hierarchies?</l>
+               <l>Are yee the Ocean unto which they pay</l>
+               <l>Their tributarie ſtreames? Tell me I pray</l>
+               <l>(You ſpirits of truth and meekneſſe) why ye ſwell</l>
+               <l>To ſuch a furious tempeſt? I pray you tell.</l>
+               <l>Is't'cauſe our Covenant ſhall Epilogize</l>
+               <l>Your joyes, and Fortunes in ſad Tragedies?</l>
+               <l>Are all the ſecrets of the Propheſies,</l>
+               <l>Powr'd forth upon your naked Myſteries?</l>
+               <l>Is dire deſtructions black houre come? Hath light</l>
+               <l>Betray'd your ſhame unto the worlds delight?</l>
+               <l>So ſo it is: and hence doe ſpring your feares:</l>
+               <l>Theſe dayes doe ſpeake, and multitude of Yeares</l>
+               <l>Might teach you wiſedome. Now the pow'rs of heaven</l>
+               <l>Are ſhaken, and our Redemption ſhall be ſeen.</l>
+               <l>The glorious morning ſpreads upon the Mountaines,</l>
+               <l>Salvations Wells are ope, and all the fountaines</l>
+               <l>(Which yee, alas, had poyſon'd) now burſt forth,</l>
+               <l>With joyes redundant floods to fill the Earth.</l>
+               <l>Oh that yee would returne! Oh that yee would</l>
+               <l>Once teare the Maske of Errour, and behold</l>
+               <l>How ſuperſtitions face doth looke awry,</l>
+               <l>And ſo divorce you from Idolatrie.</l>
+               <l>To Vs the light is ſowne, and you muſt yeeld,</l>
+               <l>T'Eternall Truth: Gods Scepter wins the field.</l>
+               <l>No, no, ye muſt give ore. Can you but ſtay</l>
+               <l>The ſweet Aurore from giving us the day?</l>
+               <pb facs="tcp:62470:30"/>
+               <l>Or hold the heavens? forbid the winds to blow?</l>
+               <l>Or ſtop the thunder? and the flowres to grow?</l>
+               <l>Then may yee mock the dread <hi>Jehovahs</hi> blaſt,</l>
+               <l>And build your Glorie when he downe doth caſt.</l>
+            </lg>
+            <lg>
+               <l>His conquering ſword ſhal valiantly controule</l>
+               <l>The Beaſts deſignes, and reigne from Pole to Pole:</l>
+               <l>Ev'n as the darknes all amaz'd retires</l>
+               <l>When welcome and victorious light appeares,</l>
+               <l>So ſhall the Antichriſt confounded be</l>
+               <l>With brightneſſe of this killing Majeſtie.</l>
+            </lg>
+            <closer>Sperandum, &amp; ferendum.</closer>
+         </div>
+         <div type="tract">
+            <pb facs="tcp:62470:31"/>
+            <pb facs="tcp:62470:31"/>
+            <head>Intelligence from the Apoſtolicke Nuncio Il <hi>Conte</hi> di <hi>Rozzetti,</hi> now reſiding at <hi>London,</hi> to Pope <hi>Urban</hi> 8.</head>
+            <opener>
+               <salute>May it pleaſe your Holineſſe,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He humble Zeale to acquit my ſelfe loyall to your Apoſtolick employments, and the perfecti<g ref="char:EOLhyphen"/>on of that great worke for which I was ſent hither, made me haſten with my trembling Pen in hand to drop out ſome advertiſements to you, in behalfe of Truths Candor, who never in greater extre<g ref="char:EOLhyphen"/>mity then this, doth make her pittifull ad<g ref="char:EOLhyphen"/>dreſſe to your Holines, by whoſe protection ſhe is ſecured from the inſolent affronts of the
+<pb facs="tcp:62470:32"/> Vulgar: Being diſtreſſed, ſhe makes you her faire ſanctuary; being wounded, ſhee makes you her ſoveraigne balme. I know this infor<g ref="char:EOLhyphen"/>tunate Paper of Intelligence, ſhall ſwell your vext ſoule mightily, and affright all <hi>Italy</hi> with feare, and wonder. Yet if your heart bee not ſplit aſunder with griefe, and terrour; or if there be any counſell, or courage left in your <hi>Conclave,</hi> looke to the Agony of the Miter, which is now ſicke, even ſicke to the death: Lift up your weeping eyes, conſider the Times, and Seaſons; and let the ſpirit of Prudence preſerve us from utter perdition, leaſt this reprobate indocile Iland make us very quickly a reproach and opprobry to the world.</p>
+            <p>It would certainly burne the hearts of all true Catholicks with conſuming anguiſh to looke upon the preſent diſtempers, and to thinke how glorious your Kingdome had lookt by this time, like a Coloſſus upon the columnes of ſtrength and policy; ſcorning Thunder, and out-laſting tempeſts: if Wee had never angled in that abhominable King<g ref="char:EOLhyphen"/>dome
+<pb facs="tcp:62470:32"/> of <hi>Scotland,</hi> nor ſollicite the returne of that ſtubborn people to us ſo hotly: for ſurely belike they will awake all Chriſtendome, and pervert the world. Your Holines did behold them with the Eye of diſdaine, lookt aſquint upon them (as the Sun doth) and conceaved theſe Northernes to be but dull, and halfe ſpi<g ref="char:EOLhyphen"/>rited ſoules; who could not diſcover plots, reſiſt the Majeſty of your intentions, nor mount to their wiſhes in a direct line without ſtop, or hinderance; but let mee tell your ſanctity, They reſolve to goe on (armed with their Princes ſmile) and deſtroy your very name, your memory, your aſhes, with as eaſie a freedome, as rough winds demoliſh craſie buildings.</p>
+            <p>Not content with that great diſgrace they have done your Apoſtolick dignity, in their owne Church, (now indeed deſerted, and deſperate) by that Covenant, (which Wee thought a ſilly ſhrub, but is now growne a ſturdy Oake; and waxeth ſtately like the proud Cedar) They have mov'd a banner againſt the reſidue of our hopes in <hi>England:</hi>
+               <pb facs="tcp:62470:33"/> for the Epiſcopall expedition, and holy war againſt the Hereticks, and Rebels moſt dam<g ref="char:EOLhyphen"/>nably ſucceeding (which will make a black, and ſhamefull hiſtory to embelliſh the Vati<g ref="char:EOLhyphen"/>can Library) they have come forward incen<g ref="char:EOLhyphen"/>ſed, and with ſtrange pretences (as brave men, who in their awfull palmes doe beare about better deſtinies, and command even fate it ſelfe) advance our deſtruction ſtrong<g ref="char:EOLhyphen"/>ly; for albeit Wee did little regard their harmeleſſe ſimplicity, and mocked all their ſayings, which they diſtilled ſoft as Oyle; yet Wee have now found their ſting, ſharper then two edged ſwords; for they have ſo poyſoned the world, with their Pamphlets, their Papers, and new tricks of a Reformation (as they call it: a thing as contrary to the myſtery of your kingdome, as light to dark<g ref="char:EOLhyphen"/>neſſe) that now nothing can compoſe the fury of the Obſtinate people, nor ſmooth the commotions, unleſſe Epiſcopacy firſt of all be throwne over boord; and then having given the ſwinge to the wheele of their phancy, no hopes of reſt.</p>
+            <pb facs="tcp:62470:33"/>
+            <p>Your Holineſſe had wiſely, and effectually too eſtabliſhed your right, and continued your poſſeſſion in thoſe parts, by that Hie<g ref="char:EOLhyphen"/>rarchy: But now the glory is departed from thoſe mighty Champions; They are chaſed too and fro as a forſaken leafe before the wind, and know not where to pitch; And he alſo that ere while was the great Primate of <hi>England, alterius Orbis Patriarcha,</hi> for a Throne of eminency, is like to be brought upon the Scaffold of delinquency; and the reſt of the holy fathers of this Church, lovers of peace, and moſt religious obſervers of the old Apo<g ref="char:EOLhyphen"/>ſtolick eminency, for the honour of the Church, and glory of the Goſpell, are like<g ref="char:EOLhyphen"/>wiſe trembling, every day ready to be offered up as a ſacrifice to the publick hate. The valorous Pens of your Emiſſaries, and faith<g ref="char:EOLhyphen"/>full labourers are now diſcouraged, lulled aſleepe, and turned againſt themſelves. The Authors of the moſt meritorious Peeces are now arreigned before the hereticall Tribu<g ref="char:EOLhyphen"/>nals, and ſhall hardly be brought off, if the ſtrength of your policy, and aſſiduity of your
+<pb facs="tcp:62470:34"/> prayers doe not prepare their ſafety. Their ſhining vertues, by which they ought to have beene ſo deare to the Church of <hi>Rome,</hi> are now wrapt in clouds of ſhame. All things move croſly; and now when our affaires were even ripening, and our juſt hopes pregnant with conceit of wreaths, and try<g ref="char:EOLhyphen"/>umphs, behold We are filled with nothing but diſappointments, and apprehenſions of farther reaching woes.</p>
+            <p>I know the portentuous newes of the <hi>Scottiſh</hi> and <hi>Engliſh</hi> treaty (which fills all Courts, and Kingdomes) hath long ere now afflicted your moſt ſacred eares: for the e<g ref="char:EOLhyphen"/>ſtates of <hi>Scotland</hi> (which We can never name without ſhame and anger) have given order to their Commiſſioners (Embaſſadours of our overthrow) to treat with the Peeres of <hi>England</hi> for the production of an eſtabliſhed peace betwixt the two Nations, and ſo con<g ref="char:EOLhyphen"/>ſequently for preparing worſe dayes to us, then the miſeries of the moſt diſaſtrous war: They are linked together like two malignant powerfull Planets in conjunction,
+<pb facs="tcp:62470:34"/> who have ſuch forceable influence in the Times, that they caſt forth a flood of fire, and animate every thing againſt us with a dangerous temper. By the conference of this treaty (which joynes their interlaced minds in an individuall league) and by the prophane canvaſſing and ſupercillious, contrectation of the higheſt myſteries of State, We ſee how they have over-done us, and over-witted us in all our policies: It ſhall bee found (moſt holy Father) true as the eternall Verities, that their union will prove our infallible con<g ref="char:EOLhyphen"/>fuſion. And that ordinary remedy of a divi<g ref="char:EOLhyphen"/>ſion, which has oftentimes proved ſo effectu<g ref="char:EOLhyphen"/>all, in ſuch exigencies will likewiſe now for<g ref="char:EOLhyphen"/>ſake us: for all their purpoſes, their Judg<g ref="char:EOLhyphen"/>ments, their affections,
+<q>
+                  <l>(Like as a nimble ſmiling flame</l>
+                  <l>Meeting another, growes the ſame)</l>
+               </q>
+            </p>
+            <p>Are now but all one, pointing upward with their heads, not to heaven, but to the top of their execrable hopes, being no other
+<pb facs="tcp:62470:35"/> then to ſee your Venerable Miter (which ſo long hath beene the terrour of Princes) bu<g ref="char:EOLhyphen"/>ried in the duſt; never did plots thrive like theirs; every day, and every circumſtance of time adds a new degree of ſtrength to their machinations; fortifying themſelves againſt us moſt ſenſibly, even as by the continuall revolution of the approaching Sun We find the day is enlengthned, and the ſummer be<g ref="char:EOLhyphen"/>gotten. There be greater conſiderations in hands then the curious rules of ceremonies, which I confeſſe did multiply moſt egregi<g ref="char:EOLhyphen"/>ouſly, after the Majeſty, and decency of the <hi>Jtalian</hi> ſplendour: certainly their actions doe carry an unuſuall weight, and ſutable to themſelves doe flye at an unuſuall height. Their progreſſe is ſwift, and powerfull, as is the progreſſe of unlimited fire in a popu<g ref="char:EOLhyphen"/>lous City; or like winds, whoſe force doe at their birth rend ope the ſtubborne wombe of the dull earth.</p>
+            <p>I have skrewed my ſelfe as cunningly as I could in the boſome of their intelligence, and found the pulſe of the buſineſſe, but I
+<pb facs="tcp:62470:35"/> declare my ſagacity failes me if they doe not thirſt after the very heart-blood of your ho<g ref="char:EOLhyphen"/>nour, and combine for your finall fall; and all this under the gallant name of Loyalty to their King, and ſpecious pretext of defen<g ref="char:EOLhyphen"/>ding the faith. Oh the cunning Hereticks the <hi>Scots!</hi> they have beſieged us moſt ſubtil<g ref="char:EOLhyphen"/>ly, and ſprung a mine as it were under your Holineſſe owne throne.</p>
+            <p>Amongſt other inveagling devices, they have coined ſuch a blaſphemous way of argu<g ref="char:EOLhyphen"/>menting againſt Venerable Epiſcopacy, that it will prove moſt deſtructive of that hea<g ref="char:EOLhyphen"/>venly Hierarchy, by which your Holineſſe had anchored on the beauty of this Church; and this malignancy is followed with con<g ref="char:EOLhyphen"/>gruity of humours ſo eaſily elemented, that I doubt the miſerable torne thing can eſcape ſhipwracke in this hell-blowne tempeſt. They laugh at the authority of our Church, they ſcorne the arguments of antiquity, ſay<g ref="char:EOLhyphen"/>ing that Truth did precede errour; and all the conſiderations of pompe and ſtate, and externall magnificence they hold lighter then vanity.</p>
+            <pb facs="tcp:62470:36"/>
+            <p>As to the Aſſembly of the high Court of Parliament, here (upon which all hereticke Churches doe gaze more ſuperſtitiouſly then the <hi>Indians</hi> looke upon the Sun which they adore) 'tis more terrible then many Ar<g ref="char:EOLhyphen"/>mies with banners, and by unmercifull wayes intends a mighty vengeance againſt the <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> and Prelate faction. They are in a ſtrange motion, and run a tyde cleane contrary to our ſtanding; ſome wonderfull aſſiſtance muſt prompt the times dangerouſly, and the great body of this juſtly redoubted Parlia<g ref="char:EOLhyphen"/>ment, is like to have a vertue too immenſe for one region to containe, and moves with greater Majeſty then as it were reſolved to confine its revolutions within the narrow limits of this Iland; for the policies are ſo many and tranſcendent, their reſolutions ſo firme and immovable, that they are eaſily powerfull not onely to baniſh the Catho<g ref="char:EOLhyphen"/>licks out of their owne Land, but doe vio<g ref="char:EOLhyphen"/>lence to the <hi>Romiſh</hi> faith in the heart of <hi>Jtaly,</hi> and perſwade the <hi>Turkes</hi> and <hi>Barbares</hi> to be<g ref="char:EOLhyphen"/>come hereticall Impoſtors. It is able to
+<pb facs="tcp:62470:36"/> make your Anceſtors breake their mabre lodgings, come forth and quarrell this ſuper<g ref="char:EOLhyphen"/>lative fury, which riots ſo boundleſly. Hee that would diſ-compoſe this Parliament, muſt firſt overthrow a Kingdome, a Prince, a Law; nay elſe as eaſily might hee commixe with lightnings, or call backe a Thunder<g ref="char:EOLhyphen"/>bolt, as offer to reſtore it: for it is diſeaſed in mind, diſeaſed paſt recovery. All the Ca<g ref="char:EOLhyphen"/>nons, and conſtitutions of that ſacred Synode (which were truely the Magazin of our ſpi<g ref="char:EOLhyphen"/>rituall ſtrength) are here bitterly peſtered, and ſwept away; and the children of Policy, who made the advancement of your eſtate and honour the greateſt part of their ſtudy, are now moſt dangerouſly cenſured, and made the deplored ſubject of the times. They take as little notice of your off-ſpring, the reverend Prelats, as the ſurly North does of the Snow; which when it has engendered, its vild breath ſcatters through the earth forgotten. If buſineſſe take ſo hot a wor<g ref="char:EOLhyphen"/>king, truely for what I can conjecture by the purpoſes of heaven, or earth, all the Lawrels
+<pb facs="tcp:62470:37"/> growing on your Holineſſe Creſt will bee turned to Cypres, ſerving to no uſe but to adorn your funeralls; and the Cardinalls, Arch-biſhops, and Biſhops of <hi>Italy</hi> ſhall bee ſhortly ſent to viſite their cold Urnes, and the Nunnes left to keepe warme their aſhes with their deareſt teares.</p>
+            <p>Your Arch-officers, and friends, can be no more uſefull to your Holineſſe; though they were indeed your miniſtring and faithfull ſpirits, yet are they now ſhut up in priſons, and groane under the martyring hand of im<g ref="char:EOLhyphen"/>pious and corrupt Juſtice; reſolve to com<g ref="char:EOLhyphen"/>poſe their funerall Anthemes, and make ready condigne places for them in the Calen<g ref="char:EOLhyphen"/>der: for the blackeſt crime in their charge is, that they have befriended the <hi>Romiſh</hi> cauſe (truſty ſoules!) and laboured to rectifie a ſtubborne State too imperiouſly. The per<g ref="char:EOLhyphen"/>ſecution is ſo hot here, and the winnowing of men ſo exact, that ſundry (out of conſci<g ref="char:EOLhyphen"/>ence of humbling, and weakening the State, to make it more capable of alterations, and and apt to obey) not able to ſtand before
+<pb facs="tcp:62470:37"/> ſuch a ſophiſticat light, as is their Parliament (which notwithſtanding of our light eſteem, has melted them as Snow) have embraced a voluntar baniſhment, and tranſplanted them<g ref="char:EOLhyphen"/>ſelves beyond ſea, where they may enjoy the ſafety of a more gracious ſhade, and under your Holineſſe beames grow fat. Wee have not yet ſeene all the links of this chaine of providence, till the unwearied ſpheares, the diſpenſers of time, ſpin them out one after another; but if your Holineſſe will caſt your eyes about you, and looke to the commoti<g ref="char:EOLhyphen"/>ons, and earth-quakes in Kingdomes, and Common-wealths; Wee dare almoſt be bold to ſay that your Kingdome is now at the age of conſiſtence, and can grow no further. Your Sun-beames have paſt the meridian, and chaſed with the ſtifling miſts of errour, like ſmoake out of the pit, are ſwiftly decli<g ref="char:EOLhyphen"/>ning, and that without hopes to ariſe a<g ref="char:EOLhyphen"/>gaine; ſo they take it univerſally for gran<g ref="char:EOLhyphen"/>ted, and beleeve with ſtrong confidence that now upon the ſtage of Europe, there is a ſtrange Comedy acting, whoſe Epilogue
+<pb facs="tcp:62470:38"/> ſhall be in <hi>Rome;</hi> for matters cannot ſtand at this point, but our enemies who have their deſires ſtrengthned, will ſtrive to encompaſſe what yet remaines.</p>
+            <p>May it not wel be feared that the <hi>Engliſh</hi> Ma<g ref="char:EOLhyphen"/>jeſty with his two puiſſant armies in the fields (ready for all undertakings) ſhall eſpouſe the cauſe of the Hugenots in <hi>France,</hi> and now when the <hi>French</hi> King is offering to ſet his foot upon that little republicke of <hi>Geneve,</hi> ſhall appeare moſt terribly for their re<g ref="char:EOLhyphen"/>liefe, and lift up the Hereticks horne now lying in the duſt, and finally confound all the pioning policies of the Cardinall <hi>Richi<g ref="char:EOLhyphen"/>lieu,</hi> who has ſo proſperouſly triumphed in his garlands of Lillyes, and Floure-de-luces. What ſhould hinder him from becomming the head of all theſe pretended reformed Churches? and diſplay an uncontrolled ban<g ref="char:EOLhyphen"/>ner, till he have ſprung over the <hi>Alpes</hi> upon the wings of renowne, and as full of ſucceſſe, as hopes ſpread feare and love through the world; and having forgotten your right to the Patrimony of the Church, by the be<g ref="char:EOLhyphen"/>nevolence
+<pb facs="tcp:62470:38"/> of <hi>Conſtantine</hi> the Great, hee ſtrip you naked of all your riches, and eminence; making you miſerable as the pooreſt <hi>Capuchin:</hi> and armed with zeale, teare downe the walls of <hi>Rome</hi> like a ramping Lyon? I think Wee ſhould be ſufficiently puzled, and the moſt generous Armies your Holineſſe could com<g ref="char:EOLhyphen"/>mand, would take them to their laſt abili<g ref="char:EOLhyphen"/>ties, and have uſe of all their Counſell, and ſtrength, if theſe motions ſhould bee fol<g ref="char:EOLhyphen"/>lowed.</p>
+            <p>It is here likewiſe reported to the great encouragement of our enemies, that there be ſtrange and dangerous Novations in <hi>France,</hi> which leade to an open revolt, and the powerfull prevailing of hereſie; for if their Church Service be received in a known tongue againſt the practiſes, and conſtituti<g ref="char:EOLhyphen"/>ons of the Church (as the ſame flyes) and that by the advice of the Hugenots, who will ne<g ref="char:EOLhyphen"/>ver move beyond their Line, to meet us (not a haire breadth) certainly you may then make the Myters Epitaph, and perſwade your ſelfe of greater inundations of evills then ever was
+<pb facs="tcp:62470:39"/> thought to have ſprung from the Covenant of <hi>Scotland,</hi> or the Trienniall Parliaments in <hi>England;</hi> You may ſee then the combuſtion which began in <hi>Scotland,</hi> and threatned but weakely at a great diſtance, is now come to the skirts of the Holy Land almoſt, and that you had need to looke to your owne buil<g ref="char:EOLhyphen"/>ding.</p>
+            <p>Our evills multiply, as the heads of <hi>Hydra;</hi> for what conſequence may Wee apprehend from the Marriage of the daughter of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> with thoſe who bee Arch-enemies to your moſt Catholicke Sonne, the right hand of your execution? and can the Prince Pala<g ref="char:EOLhyphen"/>tine be arrived here for any thing which will bring either happineſſe to the common cauſe, or divert the calamities which are daily emergent, like ſwolne clouds of infecti<g ref="char:EOLhyphen"/>on ariſing upon the Horizon and darkening the skie? No, our evills are preparing as the Arrowes are ready to bee ſent from the bended bow.</p>
+            <p>Through this beliefe, the prophane world doe glory in moſt ſacrilegious inſolencies;
+<pb facs="tcp:62470:39"/> for the diſ-mantling of Churches, the pulling up of the railes (which make the comely diſtance from the holy place) nay, the over<g ref="char:EOLhyphen"/>turning of Altars, (which in all the corners of the Kingdome did riſe moſt bravely after the <hi>Italian</hi> mode) are but the daily practiſes of the undanted, and undiſtinguiſhing vul<g ref="char:EOLhyphen"/>gar. Wee are come to ſuch height of con<g ref="char:EOLhyphen"/>tempt, that Boyes ſing our ſcandale in the ſtreets; they tune Ballads to our infamy: and hee that can reproach us moſt handſom<g ref="char:EOLhyphen"/>ly, and deepely informe againſt us, has moſt ſtrongly demerited Church and State. I like not the complexion of our affaires; ſtrange ſymptoms of a moſt dangerous conſumption, and many pregnant reaſons for the encreaſe of our feares. The Pulpits have forgotten that gracious ſound, with which they were of late moſt entirely acquainted; the Bookes dare not appeare in the <hi>Romiſh</hi> dye, but come forth in ſquadrons; in ſtrange habit, and hereticall colours. Our poſſeſſion heere is gone, it ſeemes; and our hopes to recover it, wholly blaſted: nay if the pernicious Coun<g ref="char:EOLhyphen"/>ſells, and the opinions of the daring <hi>Scots</hi> prevaile, Wee may as eaſily thinke to entice
+<pb facs="tcp:62470:40"/> the Sun from his Ecliptick, as work an alte<g ref="char:EOLhyphen"/>ration of their humors, or ſhake them from theſe new grounds to which they are now ſo miſerably wedded.</p>
+            <p>I dare not forget to ſhew your Holines, what great expreſſions of joy have bin heere in the City of <hi>London,</hi> tearing the clouds with the muſicke of their Bells, and condenſing the aire with the ſmoake of their Bone<g ref="char:EOLhyphen"/>fires, as if they had already ſeene their furtheſt deſires crowned, and had bin ringing our fu<g ref="char:EOLhyphen"/>nerall knels; becauſe the Prince has granted to the Eſtates a Triennall Parliament, where<g ref="char:EOLhyphen"/>with the people have beene as ſtrongly af<g ref="char:EOLhyphen"/>fected, as if they had beene delivered from Peſt or Famine; or had received the ſpoiles of moſt important conqueſt: by this meanes they reſolve to hammer us ſo flat, that Wee ſhall never ſet up our heads, nor bud a<g ref="char:EOLhyphen"/>gaine.</p>
+            <p>If ever affliction could awake the Sonnes and Daughters of the <hi>Romane</hi> Church, 'tis now, when the angry winds are let looſe from the corners of the earth. Wee have not in<g ref="char:EOLhyphen"/>deed ſlept our time here, but practiſed very laboriouſly, and according as the Churches
+<pb facs="tcp:62470:40"/> exigency did call us to a double care, ſo likewiſe have We attempted all expediencies for deluding the purpoſes of our enemies, and ſtrengthning our ſelves. We have ſtretched our wit, and ſtudied fitting policies in all the latitude of a Catholick conſcience; there re<g ref="char:EOLhyphen"/>maines nothing in the treaſure of invention which We have not ſollicite, and now in theſe bleeding times with greater ſtrength of wit; but I know not what has interpoſed be<g ref="char:EOLhyphen"/>twixt your Holines influence, and a good effect: ſome thing of late has made obſtructi<g ref="char:EOLhyphen"/>ons in the effectuall derivations of your Apo<g ref="char:EOLhyphen"/>ſtolick Benedictions; all has proved unprofi<g ref="char:EOLhyphen"/>table: And (not to offend your Holines) I feare leaſt the tyde of your ſorrowes be but yet growing; for whereas Wee have ever magnified, and exalted tradition above the Scripture, yet we know not how to faſten on theſe Impoſtures, for they adhere ſo cloſe to their Scriptures, in their reaſons, and opini<g ref="char:EOLhyphen"/>ons, that ſooner may you divorce the light fro<g ref="char:cmbAbbrStroke">̄</g> the Sun, then pull them from their grund ſlighting the traditions, and cuſtomes of the <hi>Romiſh</hi> Church with as much diſdaine, as we neglect the <hi>Alchoran;</hi> and ever when they
+<pb facs="tcp:62470:41"/> oppone Scripture to our Traditions, We know not what to ſay, and have not bin acquainted with other Authority then the Churches: therefore your Holi<g ref="char:EOLhyphen"/>nes would doe well to hearken to this, and conſider that the times in likelyhood are comming, when the Scriptures (which have bin ſo highly eſteemed by the ſimplicity of that pretended Religion) will bee the rule of faith, and Church-Government, and over<g ref="char:EOLhyphen"/>throw our ſubtilties: I hope your Holines, as the great Ghoſtly Father of the Church, will ſee that your building be firmely ſeated upon permanent foundati<g ref="char:EOLhyphen"/>ons; for if they be not ſure and able for all aſſaults, it may happily fall, and cruſh us all: and I aſſure your Holines, if your affronts encreaſe, your ſtrength doe not convaleſce, and this bad fortune of the Miter continue, a panick feare will invade all your devoted Kings, Princes, and Cardinals; they will betake them to the ſtrongeſt ſide, and leave you in the mire.</p>
+            <p>It is now therefore high time to ſummon up all that is vertue about you; What ever any of the great Monarches of the Church could <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oe, let it now ap<g ref="char:EOLhyphen"/>peare by your power moſt eminently diſplayed: your Holines would doe well to call a Counſell, and con<g ref="char:EOLhyphen"/>ſult with heavens, and learne how to ſtop theſe Here<g ref="char:EOLhyphen"/>ticks mouthes; convince them of the Truth, and heape coales on their heads: ſeeke out the end of
+<pb facs="tcp:62470:41"/> theſe troubles that afflict the world; for it is indeed to be feared, if Hereſie become ſo inſolent, and ſwell with ſo good fortune, that ſhortly their Truth ſhall ſhine glorious as the Sun, and become as it were the Idole of the world, extinguiſhing the life of our miſteries, under which Wee have had ſuch Halcyo<g ref="char:EOLhyphen"/>nian dayes.</p>
+            <p>Since then all the fabrick of our Religion, the ſtan<g ref="char:EOLhyphen"/>ding of the Apoſtolick Empire, and all that is deare and ſplendid to the glory of the Miter is now ſhaking; Riſe up from your throne, put to your ſaving hand to the Helme, and doe not neglect one day, one houre, one minute to weare out with toyle of plot, and pra<g ref="char:EOLhyphen"/>ctiſe of conceit, your buſie and fruitfull wit; beſtir like the firſt mover, your inferiour, and obedient Spi<g ref="char:EOLhyphen"/>rits, every one in their owne ſpheare; never take reſt, nor force a ſmile which is not borrowed from a ſacred, and Papall vengeance, ſuch as becomes the ſtate of your diſgrace, and unbounded fate, till your Holines know what way to ſatisfie fury and revenge; till you and your ſucceſſors, the undoubted Inheritors of the worlds Metropoliticall throne, have touched the ends of the earth with your all conquering Scepter, and hath led Truth in Proceſſion, triumphing over the ruines of errour.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <pb facs="tcp:62470:42"/>
+            <p>
+               <figure>
+                  <figDesc>Pope's mitre</figDesc>
+                  <l>The Daughter of Myſt'ry, the child of Errour,</l>
+                  <l>Mother of Tyranny, of Wars, of Terrour,</l>
+                  <l>The Idol of Reproach, Rocke of offence</l>
+                  <l>To Iew and Gentile, Source of Indulgence</l>
+                  <l>For all Impieties, and th'uſurping Creſt</l>
+                  <l>'Bove Diademes, the State, the Churches Peſt</l>
+                  <l>Is now diſcov'red, and all the world awake.</l>
+                  <l>Makes proud <hi>Rome,</hi> and th'opprobrious Myter ſhake.</l>
+               </figure>
+            </p>
+            <pb facs="tcp:62470:42"/>
+         </div>
+      </back>
+   </text>
+</TEI>
